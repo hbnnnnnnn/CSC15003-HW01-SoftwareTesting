@@ -11,16 +11,16 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > guide me to do the homework 1, overview what will be done
 > and how to do it and how long would it take
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/1.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/2.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/3.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/4.png)
+<img src="./screenshots/prompt_log/claude/1.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/2.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/3.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/4.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **2. Timestamp: 21:38 03/06/2026**
 **Prompt:**
 > i dont get this [quoted: log defects as GitHub Issues]
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/5.png)
+<img src="./screenshots/prompt_log/claude/5.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **3. Timestamp: 21:51 03/06/2026**
 **Prompt:**
@@ -35,44 +35,44 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > 
 > so we can use AI for what part of the task?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/6.png)
+<img src="./screenshots/prompt_log/claude/6.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **4. Timestamp: 22:19 04/06/2026**
 **Prompt:**
 > ok give me step by step what to do now
 > to complete all the requirements
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/7.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/8.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/9.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/10.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/11.png)
+<img src="./screenshots/prompt_log/claude/7.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/8.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/9.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/10.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/11.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **5. Timestamp: 22:23 04/06/2026**
 **Prompt:**
 > i dont get the activation date in AI-06
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/12.png)
+<img src="./screenshots/prompt_log/claude/12.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **6. Timestamp: 22:27 04/06/2026**
 **Prompt:**
 > whats the first time login confirmed?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/13.png)
+<img src="./screenshots/prompt_log/claude/13.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **7. Timestamp: 22:33 04/06/2026**
 **Prompt:**
 > PUBLISHED WITHIN 60 DAYS of the submission date.
 > submission date of this homework is 8/6 so it must be from 8/5?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/13.png)
+<img src="./screenshots/prompt_log/claude/13.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **8. Timestamp: 22:35 04/06/2026**
 **Prompt:**
 > what would be on the github repo?
 > like what is it purpose
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/14.png)
+<img src="./screenshots/prompt_log/claude/14.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **9. Timestamp: 22:42 04/06/2026**
 **Prompt:**
@@ -80,21 +80,21 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > the prompt in all my homework process or just related
 > to the requirements??
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/15.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/16.png)
+<img src="./screenshots/prompt_log/claude/15.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/16.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **10. Timestamp: 22:47 04/06/2026**
 **Prompt:**
 > what does dated screenshot mean
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/17.png)
+<img src="./screenshots/prompt_log/claude/17.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **11. Timestamp: 23:00 04/06/2026**
 **Prompt:**
 > ok i screenshot all 10 jobs what to do next?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/18.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/19.png)
+<img src="./screenshots/prompt_log/claude/18.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/19.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **12. Timestamp: 23:22 04/06/2026**
 **Prompt:**
@@ -102,7 +102,7 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > paste meaning paste the whole paragraph?
 > also what if the AI is perfect
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/20.png)
+<img src="./screenshots/prompt_log/claude/20.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **13. Timestamp: 23:30 04/06/2026**
 **Prompt:**
@@ -205,7 +205,7 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > 
 > this is my AI response, how would you describe its hallucinaiton in req 2?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/21.png)
+<img src="./screenshots/prompt_log/claude/21.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **14. Timestamp: 23:45 04/06/2026**
 **Prompt:**
@@ -213,8 +213,8 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > 
 > i intend to use these, is there anything that is hard or needs replacements?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/22.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/23.png)
+<img src="./screenshots/prompt_log/claude/22.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/23.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **15. Timestamp: 23:48 04/06/2026**
 **Prompt:**
@@ -222,7 +222,7 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > for this requirement? because if self-scanning for
 > hallucination will cost so much time?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/24.png)
+<img src="./screenshots/prompt_log/claude/24.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **16. Timestamp: 23:50 04/06/2026**
 **Prompt:**
@@ -231,37 +231,37 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > dont want to spend time reading the sources over and
 > over again to find a biased or hallucination part
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/25.png)
+<img src="./screenshots/prompt_log/claude/25.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **17. Timestamp: 23:52 04/06/2026**
 **Prompt:**
 > but like there are 20 of them how can it be all niche
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/26.png)
+<img src="./screenshots/prompt_log/claude/26.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **18. Timestamp: 22:30 05/06/2026**
 **Prompt:**
 > [quoted: good list from previous message]
 > can you finalize the list of 20 sources?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/27.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/28.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/29.png)
+<img src="./screenshots/prompt_log/claude/27.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/28.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/29.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **19. Timestamp: 22:28 06/06/2026**
 **Prompt:**
 > what if my fan doesnt have any defects?
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/30.png)
+<img src="./screenshots/prompt_log/claude/30.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **20. Timestamp: 22:54 06/06/2026**
 **Prompt:**
 > give me the prompt log for this whole conversation,
 > with this format, i will do the screenshots
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/claude/31.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/32.png)
-![Red-bordered AI Output](./screenshots/prompt_log/claude/33.png)
+<img src="./screenshots/prompt_log/claude/31.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/32.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/claude/33.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 
 ### ChatGPT
@@ -290,26 +290,26 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 > - HTTP/2 Rapid Reset Attack 
 > - Fortinet SSL-VPN RCE
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/3.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/4.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/5.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/6.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/7.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/8.png)
+<img src="./screenshots/prompt_log/chatgpt/3.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/4.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/5.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/6.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/7.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/8.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **2. Timestamp: 21:44 07/06/2026** 
 **Prompt:**
 > Can you draw an ISTQB QA/QC role mindmap for me? Output in md, use mermaid
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/1.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/2.png)
+<img src="./screenshots/prompt_log/chatgpt/1.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/2.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **3. Timestamp: 09:54 06/06/2026**
 **Prompt:**
 > design 15 test cases  Objective / Input / Steps / Expected / Actual / Verdict) for my household device: a pedestal fan
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/9.png)
-![Red-bordered AI Output](./screenshots/prompt_log/chatgpt/10.png)
+<img src="./screenshots/prompt_log/chatgpt/9.png" style="border:2px solid red;" alt="Red-bordered AI Output">
+<img src="./screenshots/prompt_log/chatgpt/10.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 ### Gemini
 
@@ -317,64 +317,64 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 **Prompt:**
 > read the hw01 requirement in 2026.HW01.Jobs.Defects.PhysicalProduct_En.pdf. First draft the structure of the report markdown. Then write the report for me, for requirement 1 first. every materials you need for the req 1 are in  req_1_materials.txt, and req screenshots are in screenshots/requirement_1
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/1.png)
+<img src="./screenshots/prompt_log/gemini/1.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **2. Timestamp: 23:21 05/06/2026**
 **Prompt:**
 > ok remove the pts, and add a section for student info. Also i want the screenshot to be inserted as images not link. and i dont see the appendix A or Self-Assessment section
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/2.png)
+<img src="./screenshots/prompt_log/gemini/2.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **3. Timestamp: 23:27 05/06/2026**
 **Prompt:**
 > ok nice, now continue with req 2, read req_2_materials.txt and use screenshots in screenshots/requirement_2
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/3.png)
+<img src="./screenshots/prompt_log/gemini/3.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **4. Timestamp: 23:47 05/06/2026**
 **Prompt:**
 > ah i forgot to add the links, here it is req_2_links.txt
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/4.png)
+<img src="./screenshots/prompt_log/gemini/4.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **5. Timestamp: 23:48 05/06/2026**
 **Prompt:**
 > what mentioned as search you search it and put it in the report
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/5.png)
+<img src="./screenshots/prompt_log/gemini/5.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **6. Timestamp: 23:53 05/06/2026**
 **Prompt:**
 > skip the req 3 for now, do other parts first except the prompt log, self assessment give all full
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/6.png)
+<img src="./screenshots/prompt_log/gemini/6.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **7. Timestamp: 08:49 06/06/2026**
 **Prompt:**
 > draft the prompt log outline in prompt_log.md for me
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/7.png)
+<img src="./screenshots/prompt_log/gemini/7.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **Timestamp: 23:29 06/06/2026**
 **Prompt:**
 > read 2026.HW01.Jobs.Defects.PhysicalProduct_En.pdf, and write the prompt log in appendix as required (file: prompt_log.md, also fix the HW01_Report.md to link to that file), the materials for the prompt log i have prepared in prompt.txt, use those, polish my notes, but for the prompt kept as-is, also add this to the prompt log too
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/8.png)
+<img src="./screenshots/prompt_log/gemini/8.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **Timestamp: 20:13 07/06/2026**
 **Prompt:**
 > i'm doing the homework described in 2026.HW01.Jobs.Defects.PhysicalProduct_En.pdf, now i need you to read the requirements thoroughly, also read the ___2026.Homework.Policies (1).pdf, and write the requirement 3 part in HW01_Report.md. Materials: KCPM-HW01-Test Cases.xlsx for the test cases, device info: mitsubishi lv16-rm. 
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/9.png)
+<img src="./screenshots/prompt_log/gemini/9.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **Timestamp: 20:32 07/06/2026**
 **Prompt:**
 > serial number is 90402931
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/10.png)
+<img src="./screenshots/prompt_log/gemini/10.png" style="border:2px solid red;" alt="Red-bordered AI Output">
 
 **Timestamp: 20:34 07/06/2026**
 **Prompt:**
 > good, update our conversation to prompt_log.md, note and i will handle the screenshot
 **Output:**
-![Red-bordered AI Output](./screenshots/prompt_log/gemini/11.png)
+<img src="./screenshots/prompt_log/gemini/11.png" style="border:2px solid red;" alt="Red-bordered AI Output">
