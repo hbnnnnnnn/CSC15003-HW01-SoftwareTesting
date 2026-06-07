@@ -16,6 +16,7 @@ FILES = [
     "AI-06_AI_Student_Acknowledgement.md",
     "prompt_log.md",
     "QA_QC_Mindmap.md",
+    "git_log.md",
 ]
 
 BASE_DIR = "/Users/hbn/Documents/CSC15003-HW01-SoftwareTesting"
