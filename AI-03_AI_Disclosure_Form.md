@@ -38,10 +38,9 @@ Claude, ChatGPT, Gemini
 
 *Paste the 2–3 most impactful prompts verbatim. For the full transcript, attach Appendix A (prompt_log.md).*
 
-- "guide me to do the homework 1, overview what will be done and how to do it and how long would it take"
-- "design 15 test cases Objective / Input / Steps / Expected / Actual / Verdict) for my household device: a pedestal fan"
-- "explain these concepts for me: [list of vulnerabilities/hallucinations]"
-- "read the hw01 requirement... First draft the structure of the report markdown. Then write the report for me..."
+- "design 15 test cases (Objective / Input / Steps / Expected / Actual / Verdict) for my household device: a pedestal fan"
+- "explain these concepts for me:\n- Air Canada Chatbot Hallucination (Moffatt v. Air Canada)\n- Mata v. Avianca — ChatGPT Fake Legal Citations\n- Indirect Prompt Injection in Bing Chat (Johann Rehberger research)\n- Data/Model Poisoning in LLMs (OWASP LLM04, reported incidents)\n- AI-Generated Insecure Code (GitHub Copilot vulnerability study)\n- Model Denial of Service (OWASP LLM10, documented 2023–2024)\n- Bias in AI Hiring Tools (EEOC AI bias reports 2023–2024)\n- MOVEit Transfer SQL Injection\n- CrowdStrike Falcon Content Update Bug\n- XZ Utils Backdoor\n- ProxyNotShell\n- OpenSSL Buffer Overflows\n- Cisco IOS XE Web UI RCE\n- SharePoint RCE\n- Apple WebKit Zero-Day\n- Android Framework Integer Overflow\n- Linux Kernel cgroups Improper Auth\n- SolarWinds Web Help Desk Hardcoded Credentials\n- HTTP/2 Rapid Reset Attack\n- Fortinet SSL-VPN RCE"
+- "read the hw01 requirement in 2026.HW01.Jobs.Defects.PhysicalProduct_En.pdf. First draft the structure of the report markdown. Then write the report for me, for requirement 1 first. every materials you need for the req 1 are in req_1_materials.txt, and req screenshots are in screenshots/requirement_1"
 
 ### 4. Specific parts of the work AI contributed to:
 
