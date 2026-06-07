@@ -110,7 +110,7 @@
 - **Severity:** High
 - **Consequences:** Customer financial loss, a legal dispute, and a tribunal ruling holding Air Canada responsible for the chatbot's advice.
 - **Solution:** Ensure chatbots strictly adhere to company policy and avoid pure generative AI for strict policy questions.
-- **AI Bias/Hallucination Instance:** The initial AI explanation imprecise framing of the 90-day window and overconfidently called it an "LLM hallucination" without definitive proof.
+- **AI Bias/Hallucination Instance:** The AI explanation imprecisely framed the bereavement-refund timeline and overconfidently labeled the case as an "LLM hallucination" without clear evidence that the Air Canada chatbot was LLM-based.
 
 **2. Mata v. Avianca — ChatGPT Fake Legal Citations**
 - **Screenshot:**
@@ -200,7 +200,7 @@
 - **Severity:** Critical
 - **Consequences:** Potential remote compromise of Linux servers worldwide if deployed.
 - **Solution:** Better vetting of open-source maintainers and monitoring for performance anomalies.
-- **AI Bias/Hallucination Instance:** The AI explanation missed the systemd dependency trick that made the attack possible and that it was a pre-authentication RCE, not just an auth bypass.
+- **AI Bias/Hallucination Instance:** The AI explanation missed key details of the attack chain and understated the severity by not addressing the systemd dependency trick that enabled the backdoor, nor clarifying that it constitutes a pre-authentication remote compromise.
 
 **11. ProxyNotShell**
 - **Screenshot:**
