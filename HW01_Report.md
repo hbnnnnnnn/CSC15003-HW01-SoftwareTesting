@@ -4,6 +4,7 @@
 - **Name:** Hà Bảo Ngọc
 - **Student ID:** 23127300
 - **Class:** 23KTPM3
+- **GitHub Repo:** https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting
 
 ## Requirement 1 – QA/QC Job Market 2026+
 
@@ -104,7 +105,7 @@
 **1. Air Canada Chatbot Hallucination**
 - **Screenshot:**
   ![Defect 1 Screenshot](./screenshots/requirement_2/def_1.png)
-- **Source Link:** https://aibusiness.com/nlp/air-canada-held-responsible-for-chatbot-s-hallucinations-
+- **Source Link:** https://www.aibusiness.com/nlp/air-canada-held-responsible-for-chatbot-s-hallucinations
 - **Description:** A customer asked the Air Canada chatbot about bereavement fares and was incorrectly told they could buy a ticket first and apply for a refund later.
 - **Severity:** High
 - **Consequences:** Customer financial loss, a legal dispute, and a tribunal ruling holding Air Canada responsible for the chatbot's advice.
@@ -124,7 +125,7 @@
 **3. Indirect Prompt Injection in Bing Chat**
 - **Screenshot:**
   ![Defect 3 Screenshot](./screenshots/requirement_2/def_3.png)
-- **Source Link:** https://embracethered.com/blog/
+- **Source Link:** https://embracethered.com/blog/index.php/2023/04/06/data-exfiltration-via-markdown-image-tag-in-bing-chat/
 - **Description:** Security researcher Johann Rehberger showed that hidden instructions in webpages could influence Bing Chat.
 - **Severity:** High
 - **Consequences:** Information disclosure, tool misuse, and unauthorized data exfiltration.
@@ -294,7 +295,7 @@
 **20. Fortinet SSL-VPN RCE**
 - **Screenshot:**
   ![Defect 20 Screenshot](./screenshots/requirement_2/def_20.png)
-- **Source Link:** Fortinet CVE-2022-42475 Security Advisory
+- **Source Link:** https://www.fortinet.com/blog/threat-research/fortios-ssl-vpn-buffer-underflow-vulnerability-cve-2022-42475
 - **Description:** Critical pre-auth RCE vulnerabilities in FortiOS SSL-VPN gateways.
 - **Severity:** Critical
 - **Consequences:** Credential theft and long-term enterprise network compromise.
@@ -307,7 +308,7 @@
 - **Brand:** Mitsubishi
 - **Model:** LV16-RM
 - **Year:** 2021
-- **Serial Number:** 1234****8901
+- **Serial Number:** 90****31 (masked)
 
 ### Device Photo
 ![Device Photo](./fan_and_studentID.jpg)
@@ -346,6 +347,17 @@
 ![AI Output 1](./screenshots/prompt_log/chatgpt/9.png)
 ![AI Output 2](./screenshots/prompt_log/chatgpt/10.png)
 
+### Bug Report Evidence
+
+| TC ID | Defect Description | Screenshot |
+|---|---|---|
+| FAN-TC007 | Oscillation interruption recovery — fan continues to max angle before reversing | ![FAN-TC007](./screenshots/bug_reports/FAN-TC007-defect-oscillation-interruption.jpg) |
+| FAN-TC013 | Front grill safety — finger can reach rotating blades through grill opening | ![FAN-TC013](./screenshots/bug_reports/FAN-TC013-defect-front-grill-safety.jpg) |
+
+GitHub Issues: [#1 FAN-TC007](https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting/issues/1) · [#2 FAN-TC013](https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting/issues/2)
+
+Full test case data (with filled Actual and Verdict columns) is exported in [KCPM-HW01-Test Cases.xlsx](./KCPM-HW01-Test Cases.xlsx).
+
 ### Execution Videos
 | STT | Video | Test Case | YouTube Link |
 |-----|-------|-----------|--------------|
@@ -356,7 +368,20 @@
 | 5 | Speed Change During Oscillation | FAN-TC015 | [Watch](https://youtu.be/01Mz2j2Dwbc) |
 
 ## Appendix A: Prompt Log
+
 The detailed chronological prompt log with timestamped screenshots is provided in [prompt_log.md](./prompt_log.md).
+
+## AI Critique
+
+For this assignment, AI tools (Claude, ChatGPT, Gemini) were used across all three requirements — drafting report structures, explaining vulnerabilities, generating test cases, and compiling prompt logs.
+
+**Where AI worked well.** AI excelled as a structural accelerator. Gemini produced a usable report skeleton in minutes. ChatGPT generated 15 baseline test cases that covered the obvious functional paths. For brainstorming the 20-defect list, AI quickly synthesized descriptions that would have taken hours to draft from scratch. The AI-first workflow genuinely saved time and gave the work a solid foundation to build on.
+
+**Where AI consistently failed.** AI produced consensus-level summaries that omitted critical technical details. CrowdStrike was described only as "a defective update" without naming Channel File 291 or the out-of-bounds memory read mechanism. The MOVEit attack omitted the LEMURLOOT web shell — the actual data-theft vector. The QA/QC mindmap misplaced Performance Testing under Functional Testing. Most problematically, AI hallucinated plausible-sounding but incorrect details: calling Air Canada a "hallucination" without confirming it was LLM-based, and leaving the Fortinet source link as a raw placeholder rather than resolving the actual advisory URL.
+
+**What human review caught.** Five critical omissions were found and corrected: the XZ Utils systemd dependency trick, the CrowdStrike kernel-mode root cause, the LEMURLOOT web shell in MOVEit, the employer strict-liability nuance in AI hiring bias, and the broken/defective links. Two actual product defects were also discovered through manual edge-case testing that AI had no way to anticipate — oscillation interruption recovery and front grill safety.
+
+**Lesson.** AI is a useful starting point but cannot replace authoritative sources (CVE databases, official advisories, ISTQB syllabus) for technical accuracy. Every AI output in this assignment was verified against at least one primary source. The most reliable workflow — AI First → Human Review → AI Audit Report — proved its value by surfacing hallucinations that would have otherwise gone undetected.
 
 ## Self-Assessment
 
@@ -366,6 +391,6 @@ The detailed chronological prompt log with timestamped screenshots is provided i
 | 2 | Software Defects 2022–2026 (20 defects) | 20 | 20 |
 | 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 25 |
 | AI-1 | [AI-02] AI Audit Report (5-section) attached | 8 | 8 |
-| AI-2 | AI Critique 200–300 words + [AI-03] Disclosure attached | 4 | 4 |
-| AI-3 | [AI-05] Checklist signed + anti-cheat artifacts | 3 | 3 |
+| AI-2 | AI Critique 200–300 words + [AI-03](./AI-03_AI_Disclosure_Form.md) attached | 4 | 4 |
+| AI-3 | [AI-05](./AI-05_AI_Privacy_Checklist.md) Checklist signed + anti-cheat artifacts | 3 | 3 |
 | **Total** | | **100** | **100** |
