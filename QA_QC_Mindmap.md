@@ -1,147 +1,130 @@
 # ISTQB QA/QC Role Mind Map
-
 ```mermaid
 mindmap
-  root((QA/QC Professional))
+  root((ISTQB QA/QC Roles))
 
-    ISTQB Foundation
-      Testing Principles
-      Test Process
-      Test Levels
-      Test Types
-      Static Testing
-      Test Design Techniques
-      Test Management
-      Tool Support
-
-    Quality Assurance (QA)
+    QA (Quality Assurance)
       Process Improvement
-      SDLC Standards
-      Quality Standards
-        ISO 9001
-        ISO 25010
-        CMMI
-      Audits
-      Risk Management
-      Continuous Improvement
-      Preventive Activities
+        Define Standards
+        Establish Procedures
+        Audit Processes
+        Continuous Improvement
+      Quality Planning
+        Test Strategy
+        Quality Objectives
+        Risk Management
+      Prevention Focus
+        Defect Prevention
+        Process Optimization
+      Compliance
+        ISO Standards
+        Regulatory Requirements
+      Test Automation
+        Automation Strategy
+        Framework Selection
+        CI/CD Integration
+        Tool Maintenance
 
-    Quality Control (QC)
+    QC (Quality Control)
       Product Verification
-      Defect Detection
+        Test Execution
+        Defect Detection
+        Validation Activities
+      Inspection
+        Reviews
+        Walkthroughs
+        Inspections
+      Testing Activities
+        Functional Testing
+        Non-Functional Testing
+          Performance Testing
+          Security Testing
+          Usability Testing
+        Regression Testing
+        Retesting
+
+    Test Analyst
+      Test Design
+        Test Cases
+        Test Data
+        Test Conditions
       Test Execution
+        Manual Testing
+        Automated Testing Support
+        Defect Detection
       Defect Reporting
-      Validation Activities
-      Corrective Actions
+      Traceability
 
-    Test Analysis
-      Requirement Analysis
-      User Story Review
-      Acceptance Criteria
-      Risk Analysis
-      Traceability Matrix
-
-    Test Design
-      Test Scenarios
-      Test Cases
-      Test Data
-      Test Conditions
-      Review Test Coverage
-
-    Test Execution
-      Manual Testing
-      Exploratory Testing
-      Smoke Testing
-      Sanity Testing
-      Regression Testing
-      Retesting
-
-    Defect Management
-      Defect Lifecycle
-      Bug Reporting
-      Severity
-      Priority
-      Root Cause Analysis
-      Defect Metrics
-
-    Test Automation
-      Automation Strategy
-      Framework Design
-      Script Development
-      Maintenance
+    Test Automation Engineer
+      Automation Framework
+        Test Script Development
+        Keyword-Driven Framework
+        Data-Driven Framework
       CI/CD Integration
-      Reporting
+      Tool Maintenance
+      Reporting & Metrics
 
-      Tools
-        Selenium
-        Playwright
-        Cypress
-        Appium
-        Robot Framework
-
-    Non Functional Testing
-      Performance Testing
-      Load Testing
-      Stress Testing
-      Security Testing
-      Usability Testing
-      Accessibility Testing
-      Compatibility Testing
-
-    Agile Testing
-      Scrum
-      Sprint Planning
-      Daily Standup
-      Backlog Grooming
-      Sprint Review
-      Shift Left Testing
-
-    Test Management
+    Test Manager
       Test Planning
-      Resource Allocation
-      Effort Estimation
-      Risk Monitoring
-      Test Reporting
+      Resource Management
+      Estimation
+      Risk Management
       Stakeholder Communication
+      Test Monitoring
+      Test Closure
 
-    Metrics and Reporting
-      Test Coverage
-      Pass Rate
-      Defect Density
-      Defect Leakage
-      Mean Time To Detect
-      Mean Time To Resolve
+    QA/QC Skills
+      Analytical Thinking
+      Communication
+      Attention to Detail
+      Domain Knowledge
+      Tool Knowledge
 
-    Tools and Technologies
-      Jira
-      Azure DevOps
-      TestRail
-      Postman
-      Git
-      Jenkins
-      Docker
+    ISTQB Core Concepts
+      Testing Principles
+      Test Levels
+        Unit Testing
+        Integration Testing
+        System Testing
+        Acceptance Testing
+      Test Types
+        Functional Testing
+        Non-Functional Testing
+          Performance Testing
+          Security Testing
+          Usability Testing
+          Compatibility Testing
+      Testing Techniques
+        Static Testing
+          Reviews
+          Static Analysis
+        Dynamic Testing
+          Black-Box Testing
+          White-Box Testing
+      Defect Lifecycle
+      Risk-Based Testing
 
-    AI in Testing
-      AI Assisted Test Design
-      Test Case Generation
-      Defect Prediction
-      Self Healing Tests
-      LLM Assisted Automation
-      Prompt Engineering
-      AI Validation
-
-    Career Progression
-      Junior QA
-      QA Engineer
-      Senior QA Engineer
-      Test Lead
-      QA Manager
-      Quality Engineering Manager
+    Tools
+      Test Management
+        JIRA
+        TestRail
+        Zephyr
+      Automation
+        Selenium
+        Cypress
+        Playwright
+        Appium
+      API Testing
+        Postman
+        REST Assured
+        SoapUI
+      Performance Testing
+        JMeter
+        LoadRunner
+        Gatling
+      Security Testing
+        Burp Suite
+        OWASP ZAP
 ```
 
-### AI-Generated Mistakes Identified
-
-1. **Poor Visual Hierarchy and Clutter:** The mindmap lacks clear groupings and logical flow. Branches are not well-organized according to standard ISTQB phases, making the diagram cluttered and difficult to comprehend.
-2. **Duplicate Branches:** The "Test Management" branch appears twice—once as a sub-branch under "ISTQB Foundation" and again as a completely separate top-level branch with different child nodes.
-3. **Inconsistent Naming Conventions:** The mindmap switches naming styles mid-map. While most branches use noun phrases (e.g., "Test Management", "Defect Management"), others use prepositional phrases ("AI in Testing"), conjunctive phrases ("Tools and Technologies"), or lack proper hyphenation ("Non Functional Testing" instead of "Non-Functional").
-4. **Scattered Tool Categorization:** Tools are incoherently split across the map. "Jira", "Postman", and "Git" are listed under a general "Tools and Technologies" branch, while "Selenium", "Playwright", and "Cypress" are buried under a "Tools" sub-branch within "Test Automation". There is no overarching taxonomy to explain this separation.
+---
