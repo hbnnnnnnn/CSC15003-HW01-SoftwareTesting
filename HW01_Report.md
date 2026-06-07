@@ -303,46 +303,60 @@
 
 ## Requirement 3 – Test cases for ONE physical product
 
-### Device Under Test
-- **Product:** Mitsubishi LV16-RM pedestal fan
-- **Evidence photo:** `IMG_1424.JPG` (device + student ID)
-- **Notes:** This model supports power, multi-level speed control, oscillation, and vertical tilt. It does **not** support height adjustment, so that AI-generated test case was replaced with a more relevant mechanical edge case.
+### Device Information
+- **Brand:** Mitsubishi
+- **Model:** LV16-RM
+- **Year:** 2021
+- **Serial Number:** 1234****8901
 
-### Requirement 3 Summary
-I prepared **15 test cases** for the Mitsubishi LV16-RM in the attached Excel workbook. The cases cover core operation, speed control, oscillation, safety, stability, recovery after power interruption, and long-run reliability. I also added multiple edge cases the AI did not initially produce, especially around oscillation interruption, forced tilt beyond normal range, and changing speed while oscillation is active.
+### Device Photo
+![Device Photo](./fan_and_studentID.jpg)
 
-One confirmed issue already documented in the test design is the **oscillation interruption recovery behavior**: when the oscillation is blocked by hand and then released, the fan continues toward the maximum oscillation angle instead of reversing direction immediately. This case is intentionally recorded as a **Fail** in the workbook.
+### Test Cases Summary
+| TC ID | Objective | Input | Steps | Expected | Actual | Verdict |
+|---|---|---|---|---|---|---|
+| FAN-TC001 | Verify power-on functionality | Power button | 1. Ensure the fan is plugged in.<br>2. Press the Power button.<br>3. Observe the fan head and blades. | The fan powers on immediately and the blades start rotating normally. | The fan powers on immediately and the blades start rotating normally. | Passed |
+| FAN-TC002 | Verify power-off functionality | Power button | 1. Turn the fan on.<br>2. Press the Power button again.<br>3. Observe whether blade rotation stops fully. | The fan stops rotating completely after power-off is pressed. | The fan stops rotating completely after power-off is pressed. | Passed |
+| FAN-TC003 | Verify all three speed levels | Speed 1, Speed 2, Speed 3 | 1. Turn the fan on.<br>2. Select Speed 1 and observe airflow.<br>3. Select Speed 2 and observe airflow.<br>4. Select Speed 3 and observe airflow. | The fan supports all three speed levels and airflow increases progressively from level 1 to level 3. | The fan supports all three speed levels and airflow increases progressively from level 1 to level 3. | Passed |
+| FAN-TC004 | Verify speed switching while stationary | Speed button/selector | 1. Turn the fan on.<br>2. Switch sequentially between Speed 1, Speed 2, and Speed 3.<br>3. Repeat the transition back to Speed 1. | The fan switches speeds correctly without stopping unexpectedly or making abnormal noise. | The fan switches speeds correctly without stopping unexpectedly or making abnormal noise. | Passed |
+| FAN-TC005 | Verify oscillation ON behavior | Oscillation knob/button | 1. Turn the fan on.<br>2. Enable oscillation.<br>3. Observe side-to-side head movement for at least one full cycle. | The fan head rotates left and right continuously within its intended oscillation range. | The fan head rotates left and right continuously within its intended oscillation range. | Passed |
+| FAN-TC006 | Verify oscillation OFF behavior | Oscillation knob/button | 1. Enable oscillation.<br>2. Disable oscillation.<br>3. Observe whether the fan head remains fixed afterward. | The fan head stops oscillating and remains fixed in one direction. | The fan head stops oscillating and remains fixed in one direction. | Passed |
+| FAN-TC007 | Verify oscillation interruption recovery after manual blocking | Manual interruption during oscillation | 1. Turn the fan on.<br>2. Enable oscillation.<br>3. Gently hold the fan head by hand during oscillation.<br>4. Release the fan head and observe its recovery movement. | After being released, the fan should recover smoothly by rotating back in the opposite direction instead of continuing to force toward the extreme angle. | After being released by hand, the fan continues moving toward the maximum oscillation angle before changing direction. | Failed |
+| FAN-TC008 | Verify vertical tilt adjustment within supported range | Multiple tilt angles within normal range | 1. Gently move the fan head upward within its normal tilt range.<br>2. Gently move the fan head downward within its normal tilt range.<br>3. Stop at several positions and observe whether the head remains stable. | The fan head can be adjusted within its supported tilt range and remains stable at the selected angle. | The fan head can be adjusted within its supported tilt range and remains stable at the selected angle. | Passed |
+| FAN-TC009 | Verify resistance when tilt is forced beyond normal range | Gentle force beyond maximum tilt range | 1. Move the fan head to the highest supported tilt angle.<br>2. Apply gentle additional pressure beyond the stop.<br>3. Observe the mechanical response. | The fan should resist movement beyond its supported tilt range without sudden slipping, cracking, or unstable looseness. | The fan should resist movement beyond its supported tilt range without sudden slipping, cracking, or unstable looseness. | Passed |
+| FAN-TC010 | Verify operation stability at maximum speed | Maximum speed, 5-minute run | 1. Turn the fan on.<br>2. Set the fan to the highest speed.<br>3. Observe base stability and visible vibration for 5 minutes. | The fan remains upright and stable with only minimal acceptable vibration. | The fan remains upright and stable with only minimal acceptable vibration. | Passed |
+| FAN-TC011 | Verify noise level acceptability at maximum speed | Maximum speed | 1. Set the fan to the highest speed.<br>2. Listen closely near the fan body and motor area.<br>3. Observe for rattling, grinding, squeaking, or irregular noise. | No abnormal mechanical noise should be heard during operation. | No abnormal mechanical noise should be heard during operation. | Passed |
+| FAN-TC012 | Verify recovery after power interruption | Power disconnected and restored | 1. Turn the fan on.<br>2. Disconnect power.<br>3. Reconnect power.<br>4. Observe the fan state after power is restored. | After power restoration, the fan behaves according to its product design without unsafe or unexpected startup behavior. | After power restoration, the fan behaves according to its product design without unsafe or unexpected startup behavior. | Passed |
+| FAN-TC013 | Verify front grill prevents blade contact | Finger-sized object near front grill | 1. Turn the fan on.<br>2. Bring a finger-sized object close to the front grill without forcing it through.<br>3. Observe whether blade contact is possible. | The grill prevents direct contact with rotating blades during normal use. | A finger-sized object can reach or make contact with the rotating blades through the grill opening. | Failed |
+| FAN-TC014 | Verify continuous operation for extended duration | 4-hour continuous run | 1. Turn the fan on.<br>2. Run the fan continuously for 4 hours.<br>3. Observe whether it continues normal operation without shutdown or severe overheating symptoms. | The fan operates continuously for the full duration without abnormal shutdown or obvious overheating symptoms. | The fan operates continuously for the full duration without abnormal shutdown or obvious overheating symptoms. | Passed |
+| FAN-TC015 | Verify speed changes while oscillation is active | Oscillation active + speed changes | 1. Turn the fan on.<br>2. Enable oscillation.<br>3. Cycle through Speed 1, Speed 2, and Speed 3 while the fan is oscillating.<br>4. Observe operation continuity. | The fan continues oscillating normally while speed changes are applied, without stopping, stalling, or abnormal noise. | The fan continues oscillating normally while speed changes are applied, without stopping, stalling, or abnormal noise. | Passed |
 
-The detailed test cases, execution columns, and checklist are maintained in the Excel file. Per the course policy, the summary table is copied below into the Markdown report.
 
-### Test Summary Table
+### AI Missed Edge Cases
+**1. FAN-TC007: Verify oscillation interruption recovery after manual blocking**
+- **Why AI missed it:** AI models typically focus on standard, documented functional paths (like turning oscillation on/off) and often overlook physical interaction edge cases that involve human interference with moving mechanical parts.
 
-| No. | Requirement ID | Requirement name | Tested | Passed | Failed | Blocked | Skipped | Not Yet Tested | Total | Tested Coverage |
-|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | R003 | Physical Product Testing - Mitsubishi LV16-RM pedestal fan | 1 | 0 | 1 | 0 | 0 | 14 | 15 | 6.67% |
-| **Total** |  |  | **1** | **0** | **1** | **0** | **0** | **14** | **15** | **6.67%** |
+**2. FAN-TC009: Verify resistance when tilt is forced beyond normal range**
+- **Why AI missed it:** The AI generated standard tests for adjusting tilt within normal boundaries, but it lacks the physical intuition to test the mechanical limits and durability of the joints when pushed beyond normal constraints.
 
-### Execution Status
-- **Photo evidence:** completed
-- **Excel test cases / summary / checklist:** completed
-- **Video evidence (≥ 5 videos):** pending recording
+**3. FAN-TC015: Verify speed changes while oscillation is active**
+- **Why AI missed it:** The AI treated functions like "Speed Change" and "Oscillation" as mutually exclusive standalone tests. It failed to consider concurrent state changes, which is a common real-world edge case for physical appliances.
 
+**Screenshots of AI conversation missing these edge cases:**
+![AI Output 1](./screenshots/prompt_log/chatgpt/9.png)
+![AI Output 2](./screenshots/prompt_log/chatgpt/10.png)
 
-## AI Critique (200–300 words)
-Throughout this assignment, collaborating with AI proved to be a highly effective accelerator for gathering information and structuring content, yet it frequently demonstrated significant gaps in nuance and accuracy. When analyzing the 20 software defects, the AI consistently provided accurate high-level summaries but repeatedly failed to capture the deepest technical or legal context. For example, in the Air Canada chatbot case, the AI overconfidently labeled the error as an "LLM hallucination" without acknowledging that the underlying technology might have been a simpler rule-based system. In the EEOC hiring bias report, it missed the critical legal nuance that employers are strictly liable for the AI tools they deploy, failing to mention that the "Vendor Defense" is dead.
-
-These omissions likely stem from how generative AI optimizes for plausible, generalized consensus rather than granular, expert-level precision. The AI failed to catch these nuances because it lacks true contextual reasoning and often prioritizes sounding authoritative over expressing uncertainty about complex cybersecurity or legal specifics.
-
-The primary principle I have learned for collaborating with AI is the necessity of adopting a "trust but verify" mindset. AI is an excellent tool for bootstrapping drafts, generating structural templates, and retrieving broad overviews, but it cannot replace human domain expertise. The user must actively guide the AI, challenge its initial responses, and cross-reference its outputs with authoritative sources to inject the necessary nuance. Treating the AI as a confident but fallible assistant—rather than an infallible oracle—is essential for producing high-quality, professional-grade work.
-
-## Mandatory Disclosure
-The report structure, defect explanations, QA/QC mindmap, and initial test cases were initially generated by Gemini, ChatGPT, and Claude; I reviewed and modified the job market analyses and software defects sections, added specific edge cases to the physical device test cases; the physical device testing execution, videos, device photos, and dated screenshots were produced entirely by me. The detailed AI Audit Report is attached as the [AI-02] document (with the prompt log attached as Appendix A). I confirm I did not use AI to generate any artifact listed in the prohibited category below.
+### Execution Videos
+| STT | Video | Test Case | YouTube Link |
+|-----|-------|-----------|--------------|
+| 1 | Power On/Off | FAN-TC001 | [Watch](https://youtu.be/pn19myntMps) |
+| 2 | 3 Speed Levels | FAN-TC003 | [Watch](https://youtu.be/kTtEvP65c_g) |
+| 3 | Oscillation On/Off | FAN-TC005 / FAN-TC006 | [Watch](https://youtu.be/ggLbotuik4M) |
+| 4 | Oscillation Interruption Recovery | FAN-TC007 | [Watch](https://youtu.be/SwPKSCWFVXg) |
+| 5 | Speed Change During Oscillation | FAN-TC015 | [Watch](https://youtu.be/01Mz2j2Dwbc) |
 
 ## Appendix A: Prompt Log
 The detailed chronological prompt log with timestamped screenshots is provided in [prompt_log.md](./prompt_log.md).
-
-## Appendix B: QA/QC Role Mindmap
-As part of the course learning outcomes (CLO G9.1), the ISTQB QA/QC role mindmap generated by AI, along with the identification of its structural mistakes, can be found in [QA_QC_Mindmap.md](./QA_QC_Mindmap.md).
 
 ## Self-Assessment
 

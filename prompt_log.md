@@ -263,23 +263,6 @@ Below is the complete chronological log of all prompts sent to AI tools during t
 ![Red-bordered AI Output](./screenshots/prompt_log/claude/32.png)
 ![Red-bordered AI Output](./screenshots/prompt_log/claude/33.png)
 
-**21. Timestamp: 07/06/2026**
-**Prompt:**
-> okay, for the requirement 3, i added here test_case_output.txt, the AI output and what to adjust, also i added the excel file for the test case, in Bản sao của KCPM-Week02-Test Cases-Template.xlsx, fill it in for me, the homework only mention the test cases, test summary report and checklist tab so dont need to fill in all, also i dont get whats the checklist in that requirement so its up to you. and i added the student id + device pic IMG_1424.JPG, the video i will record later. do the requirement 3 first, also read the ___2026.Homework.Policies (1).pdf, from what i get the requirement 3 will mostly in excel but the summary table in the report right?
-**Output:**
-> Claude Code reviewed the Requirement 3 materials and identified that the detailed work can stay in Excel, but the summary table must also be copied into the Markdown report according to the homework policy PDF.
-
-**22. Timestamp: 07/06/2026**
-**Prompt:**
-> first the checklist is really not in the template, so use your knowledge about testing to generate one, the tab must have the styles consistent with other tabs. Also the device to test is mitsubishi lv16rm, it cannot adjust the height and when we block its Oscillation by hand, after releasing it will continue to reach the max oscillation angle, write the expected as we want it to rotate the opposite after releasing so the test will fail. also after you're done update the prompt log accordingly prompt_log.md
-**Output:**
-> Claude Code generated a Requirement 3 workbook update plan based on the real device (Mitsubishi LV16-RM), then filled the Excel workbook’s relevant tabs (`Test Cases`, `Test Summary Report`, `Prompt History`) and added a new styled `Checklist` tab. It also updated the markdown report summary to include the Requirement 3 summary table and recorded the known oscillation-recovery failure as a deliberate failed case. The prompt log was then updated to reflect this Requirement 3 assistance session.
-
-**23. Timestamp: 07/06/2026**
-**Prompt:**
-> ok give me the script and also export it to md for easier look, and also in vietnamese. and then continue to document in prompt log
-**Output:**
-> Claude Code generated a Vietnamese speaking script for 5 Requirement 3 fan-test videos, exported it to `req3_video_script_vi.md`, and appended this new support step to `prompt_log.md`.
 
 ### ChatGPT
 
