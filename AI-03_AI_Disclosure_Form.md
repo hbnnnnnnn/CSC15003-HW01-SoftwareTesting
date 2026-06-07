@@ -1,8 +1,8 @@
-**Faculty of Information Technology (FIT) – Ho Chi Minh City University of Science (HCMUS)**
+> **Faculty of Information Technology (FIT) – Ho Chi Minh City University of Science (HCMUS)**
+> CS423 / CSC13003 – Software Testing (AI-augmented · 2026)
+> _AI POLICY · TEMPLATES — 2026 v1.0_
 
-**CS423 / CSC13003 – Software Testing (AI-augmented · 2026)**
-
-**AI POLICY · TEMPLATES — 2026 v1.0**
+---
 
 # AI Use Disclosure Form
 
@@ -12,15 +12,13 @@
 
 ## 1. Course & Student Info
 
-| Field | Value |
-| --- | --- |
-| Course: | CS423 / CSC13003 – Software Testing |
-| Assignment ID: | HW01 |
-| Assignment Title: | HW01 – Software Testing (AI-augmented · 2026) |
-| AI Use Category (1–5): | Category 4 |
-| Date: | 07/06/2026 |
-| Student name: | Hà Bảo Ngọc |
-| Student ID: | 23127300 |
+**Course:** CS423 / CSC13003 – Software Testing  
+**Assignment ID:** HW01  
+**Assignment Title:** HW01 – Software Testing (AI-augmented · 2026)  
+**AI Use Category (1–5):** Category 4  
+**Date:** 07/06/2026  
+**Student name:** Hà Bảo Ngọc  
+**Student ID:** 23127300  
 
 ## 2. Disclosure Questions
 
@@ -28,7 +26,7 @@
 
 *List every AI tool used for this assignment (e.g., AI Tool (e.g., ChatGPT, Claude, Gemini), ChatGPT, GitHub Copilot, Cursor, Gemini).*
 
-Claude, ChatGPT, Gemini, Antigravity IDE
+Claude, ChatGPT, Gemini
 
 ### 2. Stage(s) of the assignment where AI was used:
 
@@ -74,19 +72,18 @@ Claude, ChatGPT, Gemini, Antigravity IDE
 
 ## 3. Statement of Honesty
 
-*By signing below, I confirm that the disclosure above is accurate and complete. I understand that undisclosed or false disclosure of AI use is treated as academic misconduct and may result in a 0 grade for the assignment and disciplinary referral.*
+> [!IMPORTANT]
+> *By signing below, I confirm that the disclosure above is accurate and complete. I understand that undisclosed or false disclosure of AI use is treated as academic misconduct and may result in a 0 grade for the assignment and disciplinary referral.*
 
 ## Signature
 
-| | |
-| --- | --- |
-| Student name (printed): | Hà Bảo Ngọc |
-| Student ID: | 23127300 |
-| Class / Cohort: | 23KTPM3 |
-| Course: | CS423 / CSC13003 – Software Testing |
-| Instructor: | MSc. Trần Thị Bích Hạnh, MSc. Hồ Tuấn Thanh |
-| Date: | 07/06/2026 |
-| Signature: | *Hà Bảo Ngọc* |
+**Student name (printed):** Hà Bảo Ngọc  
+**Student ID:** 23127300  
+**Class / Cohort:** 23KTPM3  
+**Course:** CS423 / CSC13003 – Software Testing  
+**Instructor:** MSc. Trần Thị Bích Hạnh, MSc. Hồ Tuấn Thanh  
+**Date:** 07/06/2026  
+**Signature:** *Hà Bảo Ngọc*  
 
 ## References
 
