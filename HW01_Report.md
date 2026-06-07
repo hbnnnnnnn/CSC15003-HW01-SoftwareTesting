@@ -351,8 +351,8 @@
 
 | TC ID | Defect Description | Screenshot |
 |---|---|---|
-| FAN-TC007 | Oscillation interruption recovery — fan continues to max angle before reversing | ![FAN-TC007](./screenshots/bug_reports/FAN-TC007-defect-oscillation-interruption.jpg) |
-| FAN-TC013 | Front grill safety — finger can reach rotating blades through grill opening | ![FAN-TC013](./screenshots/bug_reports/FAN-TC013-defect-front-grill-safety.jpg) |
+| FAN-TC007 | Oscillation interruption recovery — fan continues to max angle before reversing | ![FAN-TC007](./screenshots/bug_reports/FAN-TC007-defect-oscillation-interruption.png) |
+| FAN-TC013 | Front grill safety — finger can reach rotating blades through grill opening | ![FAN-TC013](./screenshots/bug_reports/FAN-TC013-defect-front-grill-safety.png) |
 
 GitHub Issues: [#1 FAN-TC007](https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting/issues/1) · [#2 FAN-TC013](https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting/issues/2)
 

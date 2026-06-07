@@ -12,13 +12,12 @@
 
 ## 1. Student Information
 
-**Student name (printed):** Hà Bảo Ngoc
+**Student name (printed):** Hà Bảo Ngọc
 **Student ID:** 23127300
 **Class / Cohort:** 23KTPM3
 **Assignment ID (e.g., HW#00, HW#02):** HW01
 **Assignment date:** 07/06/2026
 **AI tool(s) used:** Claude, ChatGPT, Gemini
-**AI tool(s) used:** [x] Yes [ ] No
 
 ## 2. Instructions (read before filling)
 
@@ -83,7 +82,7 @@ Recommendation: Use AI for **bootstrapping drafts and brainstorming structures**
 **Course:** CS423 / CSC13003 – Software Testing
 **Instructor:** MSc. Trần Thị Bích Hạnh, MSc. Hồ Tuấn Thanh
 **Date:** 07/06/2026
-**Signature:** *Hà Bảo Ngoc*
+**Signature:** *Hà Bảo Ngọc*
 
 ## References
 
