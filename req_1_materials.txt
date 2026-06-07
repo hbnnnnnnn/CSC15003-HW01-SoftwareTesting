@@ -1,0 +1,659 @@
+**job 1:**
+link: https://itviec.com/it-jobs/qa-engineer-automation-manual-test-1500-ewoosoft-vietnam-5021
+copied content: `QA Engineer (Automation/Manual Test) ~ $1500
+Ewoosoft Vietnam
+You'll love it
+
+
++2
+ 19 Duy Tan, Cau Giay, Ha Noi 
+At office
+ Posted 2 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Opportunity to work onsite in Korea and abroad
+Competitive compensation and benefit package
+Develop career path by providing many trainings
+Job description
+Perform manual testing for Web and PC applications.
+Design and execute test cases based on requirements.
+Conduct functional, regression, smoke, and UAT testing.
+Collaborate with cross-functional teams in an English-only working environment.
+Develop and maintain automation tests.
+Apply AI-assisted testing tools/techniques to improve test efficiency and coverage.
+Adapt testing approaches and tools flexibly based on project needs.
+Your skills and experience
+From 03 years of experience as a QA/Tester.
+Bachelor’s degree in IT or related fields.
+Hands-on experience with manual testing for Web and PC applications.
+Practical knowledge of automation testing (e.g. Selenium, Playwright, Cypress, Appium).
+Experience or strong understanding of AI applications in software testing.
+Ability to work & can communicate in English.
+Strong analytical mindset, attention to detail, and adaptability in testing skills.
+Why you'll love working here
+Very high compensation & benefit package in market
+Salary increments base to performance with very high rate
+Give the addition Bonus → Total income up to 16 months’ salary months/year
+To be nominate the “Best employee of the year” & award 01 Trip to Korea.
+Company yearly activities: Summer trip/End Year party, Birthday/Weeding/Welcome newcomer/Team building/Picnic …
+Provide Internal & External training monthly in Vietnam/Abroad/Korea
+Send to Korea and other countries for working onsite 
+Provide carrier path for promotion with high packages
+Private Healthcare Bao Viet Insurance/Annual health check with max level 
+Working with operational, finance, retail and technical teams across the organization to identify opportunities, develop sound business cases and drive measurements of actions to continuously improve on the inputs and ultimately the outputs of the business
+Working with large volumes and big data, in a highly complex business
+Working with business intelligence tools, accessing and working with big data from multiple sources, and partnering with the business to identify strategic opportunities and deliver results`
+
+
+**job 2:**
+link: https://itviec.com/it-jobs/qa-engineer-automation-upto-3000-ingenico-vietnam-5823
+copied content: `QA Engineer ( Automation) - Upto $3000
+Ingenico Vietnam
+1,000 - 3,000 USD
+ 21 Duy Tân, Ha Noi 
+At office
+ Posted 10 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Work life balance & no OT
+Great salary package & Performance bonus
+Premium Health insurance for employee & family
+Job description
+Automating all features for Android mobile and Web applications. 
+Analysing user stories or manual test cases or other project artifacts (application design, code,…) to identify areas where automation can be applied. 
+Developing tests cases, test plans, test scripts, test data sets, or test procedures based on business requirements
+Reporting results of automated tests to development team so that defects can be addressed before production release
+Developing automation frameworks and reusable code libraries for future automation projects 
+Performing manual testing on applications to identify bugs or defects in functionality 
+Coordinating with the stakeholders (Project Manager/Scrum Master, Manual QA Engineer, Developer team, Business Analyst) to understand targets, software requirements, plan and establish test strategy and test approach for automation team. 
+Using programming language: Python with OOP/OOP design patterns to build the automation framework. 
+Mentoring and supporting other members 
+Working well with other persons in other countries and regions.
+Your skills and experience
+At least 5+ years of experience as a Test Manual/ Automation Engineer
+Great communication in English (verbal and written) 
+Experience in building at least one manual/ automation framework from scratch for WebUI or Mobile UI (Android) 
+Experience in some built-in frameworks: Robot framework, Serenity, Katalon, QuickTestPro, CodeceptJs, Cypress… 
+Experience about some automation libraries: Appium, UI Automator2, Selenium Webdriver.
+Experience to use automation approaches, such as BDD, TDD, Page Object Model, Project Objects Management (POM), Keyword driven, Data driven, ... 
+Ability to automate manual test cases using Python
+Excellent knowledge base of OOP and OOP Design patterns 
+Excellent knowledge base of Quality Control & Quality Assurance
+Familiarity with version control systems (e.g., Bitbucket) and CI/CD pipelines 
+Be able to self-study & investigate technical issues in a certain period of time
+Why you'll love working here
+Work life balance, no OT, 15 days off
+Chance to go onsite/other countries for training
+Attractive benefits:
+
+Great salary package, annual performance review 
+Performance bonus 
+Full salary in probation 
+Social insurance on full salary from probation 
+Premium Health insurance covering for employees, lawful spouse, and unlimited number of children from probation 
+15 days off annually, paid sick leaves, annual Heath Check-up 
+Working from Monday – Friday, from 9AM to 6PM, no OT 
+Annual company trip, quarterly team building activities, weekly Happy Hour 
+English communication skill training 
+Equipment: Laptop, monitor 
+Free coffee and snack `
+
+**job 3:**
+link: https://itviec.com/it-jobs/senior-automation-qa-tester-cong-ty-tnhh-ai-med-engine-0340
+copied content: `Senior Automation QA/Tester
+CÔNG TY TNHH AI MED ENGINE
+500 - 2,500 USD
+ 19 Doãn Khuê, Phường Hoà Cường, Đà Nẵng, Hoa Cuong, Da Nang 
+ 19 Sông Nhuệ, Phường Tân Sơn Hoà, Tan Son Hoa, Ho Chi Minh 
+At office
+ Posted 2 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Job description
+We are seeking a skilled Software Quality Assurance (QA) Engineer with the following qualifications:
+
+Experience Requirements:
+3+ years of experience in Automation Testing or equivalent
+3+ year of experience in Manual Testing or equivalent
+Proficiency in at least one framework such as Selenium, Appium, or Cucumber…
+Experience with API testing, Performance testing, creating Testing Plans, and using management tools
+Your skills and experience
+ 
+Key Responsibilities:
+Review and analyze system specifications
+Collaborate with the team to develop effective strategies and test plans
+Skills and Qualifications:
+Proven experience as a Quality Assurance Tester or in a similar role
+Experience in project management and QA methodology
+Strong attention to detail
+Analytical mind and problem-solving aptitude
+Experience with mobile application testing
+Experience with web application testing
+Proficiency in API testing using tools like Postman, REST Assured, etc.
+Experience in performance testing
+Understanding of Automation tests, including test planning, design, execution, and defect management
+Proficiency in at least one programming language( Python, Java, JavaScript) for creating automated tests
+Familiarity with popular automation testing tools and frameworks such as Selenium WebDriver, Appium, TestNG, JUnit, NUnit, PyTest, etc.
+Good communication skills for collaborating with cross-functional teams, reporting bugs, and explaining technical concepts to non-technical stakeholders
+
+Why you'll love working here
+Benefit
+
+Covered by a company-sponsored international health insurance package.
+12 days of paid annual leave, plus 01 day off on Christmas.
+12 days of remote work per year, subject to Leader’s approval.
+Sick leave in accordance with company policy and labor law.
+Employees may arrange flexible working hours, ensuring task completion and team meetings.
+Collaborate and team up with offices in Saigon and Da Nang.
+Opportunity to travel to the US for work, training, or collaboration with partner companies.
+Career growth opportunities based on capability and performance.
+Leaders are entitled to 15 days of paid annual leave.`
+
+**job 4:**
+link: https://itviec.com/it-jobs/senior-qa-qc-automation-tester-playwright-python-bosch-global-software-technologies-company-limited-3146
+copied content: `Senior QA/QC Automation Tester (Playwright/Python)
+Bosch Global Software Technologies Company Limited
+You'll love it
+
++2
+ 364 Cong Hoa street, Tan Binh, Ho Chi Minh 
+At office
+ Posted 21 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Committed 13th-mth bonus + attractive yearly bonus
+Premium Healthcare for you and 2 family members
+16++ days of paid leave per year
+Job description
+This position will be employed through Bosch’s external vendor under an initial one-year contract. Contract renewal is highly possible and will be considered based on performance and business needs.
+
+ 
+
+Build the Future of Intelligent Workflows
+
+ 
+
+We’re revolutionizing how Bosch delivers quality.
+
+ 
+
+Our global engineering team is building the next generation of solutions, and robust, automated testing is the bedrock of our success. We're leveraging cutting-edge tools like Playwright and Python to create a test infrastructure that's not just reactive, but proactive, intelligent, and scalable for 500,000+ users worldwide. This is a pivotal moment as we accelerate our shift-left testing strategy, making quality an inherent part of our CI/CD pipelines.
+
+ 
+
+We’re seeking a Senior Automation Tester (Playwright/ Python) who combines deep technical expertise with a relentless pursuit of excellence. This role demands a strong understanding of complex software architectures, experience in leading automation initiatives, and responsibility for designing and implementing comprehensive test frameworks.
+
+ 
+
+Key Responsibilities
+
+• Design, develop, and maintain automation test frameworks using Playwright with Python
+
+• Perform both automation and manual testing activities
+
+• Review product requirements, test scenarios, and test cases to ensure quality coverage
+
+• Integrate automated testing into CI/CD pipelines
+
+• Monitor and analyze test results, identify issues, and propose improvements
+
+• Collaborate closely with developers, product managers, and global stakeholders
+
+• Mentor and support team members in automation testing practices
+
+• Explore AI-driven approaches to improve testing efficiency and quality
+
+Your skills and experience
+Requirements
+• 5+ years of experience in software testing, with strong focus on automation testing
+• Hands-on experience with Playwright and Python
+• Good understanding of CI/CD and modern testing practices
+• Good English communication skills
+• Strong analytical and problem-solving mindset
+
+ 
+
+Nice to Have
+• Experience with Low-code/No-code platforms
+• ISTQB certification
+• Experience with performance testing or AI-supported testing solutions
+
+Why you'll love working here
+Why BOSCH?
+
+Because we do not just follow trends, we create them. Together we turn ideas into reality, working every day to make the world of tomorrow a better place. Do you have high standards when it comes to your job? So do we. At Bosch, you will discover more than just work.
+
+Benefits and Career Opportunities
+
+Private Health Insurance (Generali) : Covered by company 
+Personal Accident Insurance: Covered by company 
+13-month Salary Bonus : Guaranteed upon contract completion. (Payment timing: Included in the final payroll of labor contract) 
+12 days annual leave`
+
+**job 5:**
+link: https://itviec.com/it-jobs/senior-automation-test-engineer-playwright-java-ai-hansen-technologies-2646
+copied content: `Senior Automation Test Engineer (Playwright, Java, AI)
+Hansen Technologies
+2,000 - 2,300 USD
+
++2
+ 100 Xuan Thuy, An Khanh Ward, Ho Chi Minh 
+At office
+ Posted 24 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Global Company- Develop Your Career & English
+Competitive Salary, and company profit share
+Onsite opportunities
+Job description
+Who Are We
+
+Hansen Technologies is a leading global provider of software and services that enable organisations to transform customer experiences and streamline critical business processes. With a rich history of innovation and a footprint that spans over 80 countries, Hansen empowers utilities, energy, and communications companies to thrive in an ever-evolving digital landscape. Our commitment to excellence, customer focus, and collaborative culture makes Hansen a place where passionate professionals can make a meaningful impact, drive real change, and help shape the future of industries worldwide. 
+
+ 
+
+We are proud to be an equal opportunities employer. Hansen prides itself on celebrating diversity and is committed to creating an inclusive environment for all employees, even extending this to how we work with our customers, partners, and suppliers. We welcome applications from all qualified candidates, regardless of age, disability, gender identity or expression, marital status, race, ethnicity, religion or belief, sexual orientation, or any other protected characteristic. If you require any adjustments or accommodation during the recruitment process, please let us know.
+
+ 
+
+Why This Role Matters 
+
+ 
+
+Lead automation, deliver quality and make impact.
+
+ 
+
+As a Senior Automation Test Engineer, you will play a key role in shaping how quality is engineered across our enterprise platforms. This is not just about writing tests—you’ll own automation frameworks, mentor engineers, and embed modern quality practices throughout the delivery lifecycle. Your work will directly impact the reliability and performance of mission‑critical systems used by utility providers worldwide.
+
+*Note: This is a 5-day office-based role in An Khanh (Thao Dien), HCMC
+
+ 
+
+What You’ll Do 
+
+Own and evolve automation frameworks across UI, API, and integration layers
+Design and maintain scalable, reliable automated test suites
+Embed automation into CI/CD pipelines and drive shift‑left testing
+Provide technical leadership, mentoring, and code reviews for automation engineers
+Collaborate closely with Developers, DevOps, and Test Leads in Agile teams
+Drive continuous improvement, including AI‑assisted testing approaches
+Your skills and experience
+What You Bring
+
+Strong experience in test automation using Java
+Hands‑on expertise with tools such as Selenium, Playwright, Cucumber, Rest Assured
+Solid understanding of API, integration, and database testing (SQL)
+Experience working in Agile/Scrum environments with CI/CD pipelines
+Proven ability to mentor engineers and lift team capability
+Excellent communication skills and a quality‑first mindset
+Proficient in English both written and spoken
+Nice to have:
+
+Exposure to AI‑assisted testing, cloud platforms (AWS), or DevOps practices
+Experience with performance or non‑functional testing
+Why you'll love working here
+Competitive Market Rate Salary - full salary (including SI contribution) during the probation period and 13th-month salary
+Twice yearly salary review
+Full participation in the annual Hansen Profit Share Program
+Great Leave Options – including 12 days annual leave during Year 1, increasing to 15 days annual leave and 12 days paid sick leave per year).
+Premium healthcare for employee and dependents (spouse and {all} children and support for parents). Also, free comprehensive annual check-up for employees.
+High-speed Internet credit: VND 5,5million/year
+Wellness benefit: VND 2million annually for fitness package/devices
+Free lunch, snacks, and drink in our new modern offices, which have a cool open atmosphere with an outdoor cafe, bar, and recreation area in District 2 – including free scooter parking
+Continuous Learning and Development, including personalised Udemy Business – online learning platform.
+Reward and Recognition - Company sponsored trips and events, tenure milestones and global recognition program.
+New, modern developer laptop, 2 large monitors, and headset.
+An international work environment, highly skilled colleagues to learn from both locally and globally where you can develop your IT career and English skills.`
+
+**job 6:**
+link: https://itviec.com/it-jobs/software-qa-engineer-ai-first-mindset-zen8labs-5907
+copied content: `Upto 2000$
+
+
++2
+ TT03A-13, Mo Lao New Urban, , Ha Dong, Ha Noi 
+At office
+ Posted 7 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+100% salary on probation
+Premium PTI health care insurance
+100% full 13 months salary
+Job description
+We are looking for a QA Engineer with an AI-first mindset who is passionate about ensuring software quality across complex, high-traffic, and highly integrated
+systems.
+
+This role requires a strong hands-on testing mindset with the ability to leverage AI/Agentic AI tools to accelerate test analysis, generate and validate test scenarios, improve automation coverage, and enhance testing efficiency while still applying strong human judgment for complex system validation and exploratory testing, as well as to perform deep manual, exploration, integration, and system-level testing while also contributing to automation initiatives when appropriate.
+
+Experience with embedded systems, industrial environments, or hardwareintegrated applications is preferred but not required.
+
+Duties and Responsibilities
+
+Perform hands-on manual and exploration testing for complex workflows, integrations, edge cases, and production-like scenarios.
+Apply AI/Agentic AI tools to assist in generating, validating, maintaining, and optimizing test plans, test cases, and regression suites.
+Review and validate AI-generated test scenarios, automation scripts, and testing outcomes to ensure accuracy, completeness, and business relevance.
+Leverage AI-assisted workflows to improve defect analysis, root-cause investigation, and test coverage efficiency.
+Validate functionality across frontend, backend, APIs, databases, integrations, and system-level components.
+Collaborate closely with developers, DevOps engineers, product owners, and system engineers to ensure product quality and stability.
+Investigate defects thoroughly and use both traditional and AI-assisted approaches to identify root causes and quality risks.
+Develop and maintain automated test scripts/frameworks for regression, smoke, API, and integration testing.
+Continuously identify repetitive manual testing activities and transform them into scalable automated or AI-assisted testing workflows.
+Support CI/CD pipelines and integrate automated testing into deployment workflows.
+Participate in performance, reliability, stress, and scalability testing activities.
+Evaluate and experiment with emerging AI testing tools, AI agents, and QA productivity solutions to improve engineering efficiency.
+Monitor testing metrics, defect trends, and release quality indicators using datadriven approaches.
+Continuously improve QA processes, testing strategies, and AI-driven quality engineering practices
+Your skills and experience
+4+ years of experience in software testing with strong manual testing expertise.
+Experience testing complex, distributed, or high-traffic applications/systems.
+Strong understanding of end-to-end testing, integration testing, regression testing, and exploratory testing.
+Hands-on experience with automation testing tools/frameworks such as Selenium, Playwright, Cypress, Robot Framework, or similar.
+Ability to write and maintain automation scripts using JavaScript, Java, Python, or similar languages.
+Experience with API testing and backend validation.
+Familiarity with Agile/Scrum methodologies and CI/CD environments.
+Strong interest in applying AI/LLM/Agentic AI tools to improve software testing and QAworkflows.
+Experience using AI-assisted development/testing tools such as Cursor, Claude, GitHub Copilot, ChatGPT, or similar platforms is highly preferred.
+Experience with test management and defect tracking tools such as Jira, qTest, Xray, or TestRail.
+Strong analytical thinking, troubleshooting, and communication skills.
+Ability to work independently in fast-paced and complex environments
+Desired qualification
+
+Experience with embedded systems, industrial software, IoT devices, or hardwareintegrated applications.
+Experience with performance/load testing tools such as JMeter, k6, or Gatling.
+Familiarity with Linux environments and shell scripting.
+Experience building automation frameworks from scratch.
+Knowledge of microservices or event-driven architectures.
+Experience integrating AI capabilities into QA or engineering workflows.
+ISTQB certification or equivalent
+Why you'll love working here
+ Salary and bonus
+
+Attractive salary;
+100% salary on probation;
+Performance review twice a year, based on job outcomes;
+13 months’ salary and bonus assessment yearly;
+Working time: Flexible working hours and location from Mondays to Fridays.
+Unlimited paid leave annually;
+Insurance, health care, and extra benefits
+
+Premium PTI health care insurance;
+Special health benefits (50% discount on medical examination fee, 10% discount on ultrasound and procedure fees, 5% on medicine) at 2 Clinics, including:
+Vivision - 514 Bạch Mai
+Phụ Sản 1 - 329 Bạch Mai
+An annual medical check-up;
+Annual company trip and holiday party and other benefits according to company policy;
+Free lunch at the office; drinks and snacks at the pantry;
+MacBook and external monitor provided for work;
+Working environment and development
+
+Working environment: fast-moving, young, dynamic, no-walls environment.
+Sports activities: football, exercise break.
+Training: soft skills and technical skills training.
+Others: free coffee/tea/cookies, parking fee, year-end party, etc…
+Join our team to become part of an amazing group of tech talents!`
+
+**job 7:**
+link: https://itviec.com/it-jobs/automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115
+copied content: `Automation QA Engineer (QA QC/Tester/Automation Test)
+Nakivo
+1,100 - 1,500 USD
+Year End Party 2023
+Company Trip 2020
+Family Day 2023+2
+ TGI Building, 208 Nguyen Trai, Ho Chi Minh 
+At office
+ Posted 16 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Flexible working hour
+Private health care insurance
+15% KPI quaterly bonus
+Job description
+RESPONSIBILITIES
+
+●  Collaborate with software developers and quality assurance teams to
+
+understand project requirements and functionality
+● Design, develop, and execute automated test scripts using industry-standard
+automation tools
+● Identify and report software defects in a clear and concise manner
+● Work closely with cross-functional teams to analyze test results and
+troubleshoot issues
+● Contribute to the continuous improvement of the automation testing process
+● Design, create, and manage automation test cases using AI technologies
+
+Your skills and experience
+You properly are a potential candidate for this position, if you have:
+
+● Bachelor degree in Computer Science, Engineering, or related field
+● Strong understanding of software development life cycle and testing
+● methodologies
+● 3 years of experience or more in relevant positions
+● Proficient in at least one programming language (e.g., Java, Python, C#)
+● Familiarity with automation testing tools such as Selenium, Appium, or similar
+● Basic knowledge of version control systems (e.g., Git)
+● Excellent problem-solving and analytical skills
+● Strong communication and collaboration skills
+● Experience with AI-automation testing (e.g., Copilot, Cursor, Perplexity)
+
+ 
+
+You will be a strong candidate if you have 
+
+● Experience in working with test automation frameworks (e.g. JUnit, TestNG,
+● Selenium WebDriver)
+● Understanding of web technologies (HTML, CSS, JavaScript)
+● Knowledge of API testing and tools (e.g., Postman, RestAssured)
+● Experience with performance testing concepts and tools
+● Experience with VMware, Hyper-V, Aws and Cloud storage
+● Hands-on experience working with AI technologies
+
+Given the high volume of CVs applied, we can only manage to respond to candidates whose profiles aligns with the position within 5 working days. We appreciate your understanding and enthusiastic towards our company
+
+Why you'll love working here
+The Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years. 
+
+We welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offering
+
+Flexible working hours: Office opens from 6.00 AM to 10.00 PM
+Private health care package
+Healthcare package for family members
+Premium health care check
+Gift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday
+15-18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)
+Team building
+Free and un-limited snack, tea, coffee and by-choice request.`
+
+**job 8:**
+link: https://itviec.com/it-jobs/qa-automation-tester-java-javascript-mitek-vietnam-4855
+copied content: `QA Automation Tester (Java, Javascript)
+MiTek Vietnam
+You'll love it
+
+
++2
+ Tòa nhà A5, Lô số A5, khu E-Office, đường Sáng Tạo, KCX Tân Thuận, Tan Thuan, Ho Chi Minh 
+At office
+ Posted 32 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Competitive salary + Healthcare insurance package.
+Flexible Working Hours
+13th month and productivity bonus.
+Job description
+Project Summary:
+
+MiTek Production is a desktop application combined with a React-based web interface to support customers, streamlining truss and wall manufacturing with real-time tracking, paperless workflows, and performance monitoring. MiTek Inc. applies its Design‑Make‑Build™ approach globally, integrating software, engineered products, and automation across 64 locations, including major plants in North America and a large engineering hub in Vietnam.
+
+ 
+
+Responsibilities:
+
+Collaborate with software developers and quality assurance teams to understand project requirements and functionality
+Design, develop, and execute automated test scripts using industry-standard automation tools
+Identify and report software defects in a clear and concise manner
+Work closely with cross-functional teams to analyze test results and troubleshoot issues
+Contribute to the continuous improvement of the automation testing process
+Your skills and experience
+Required Qualifications
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related discipline.
+Over 3 years of hands-on experience in automation testing, working with modern frameworks such as Selenium, Robot Framework, Appium, or equivalent tools.
+Solid programming skills in languages such as JavaScript, Python, or Java, with a focus on automation and test framework development.
+Strong English communication skills (CEFR B1+ or higher), enabling effective collaboration in international teams.
+Preferred Qualifications
+
+Experience working with CI/CD pipelines and tools such as Azure DevOps for automated testing and deployment workflows.
+Familiarity with TestComplete or similar automation tools is a plus.
+Why you'll love working here
+Competitive Income: Attractive salary, 13th-month bonus, year-end performance bonus
+Comprehensive Healthcare: PVI insurance, full social insurance, 24/7 accident insurance, annual health check-ups
+Training & Development: English courses, LinkedIn Learning, MiTek University, overseas training opportunities
+Leave Policy: 12 annual leave days, Christmas holiday
+Recognition of Achievements & Contributions: Employee of the Month/Year, Platinum Star Award, VIP trip for employees with 3 years of service
+Modern Facilities: Designed to support learning, working, and development
+Benefits: Free diverse lunch options, team-building activities, sports clubs (Badminton, Football, Swimming, Modern Dance, Yoga, Esports, Gym)`
+
+**job 9:**
+link: https://itviec.com/it-jobs/manual-automation-tester-quality-analyst-qa-qc-mitek-vietnam-0005
+copied content: `You'll love it
+
+
++2
+ Tòa nhà A5, Lô số A5, khu E-Office, đường Sáng Tạo, KCX Tân Thuận, Tan Thuan, Ho Chi Minh 
+At office
+ Posted 2 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Competitive salary + Healthcare insurance package.
+Flexible Working Hours
+13th month and productivity bonus.
+Job description
+Design, develop, document, train and execute complex software test cases used for regression testing cycle.
+Functional testing of new features and regression testing of existing features and functionality for each new software release
+Join meeting with Stakeholders.
+Collaborate with teams from Vietnam & the US to evaluate and clarify product requirements and designs.
+Support the team to troubleshoot the issues.
+Testing on window Applications
+Log and report bugs.
+Working on Agile process
+Willing to support the other projects if need
+MANUAL TEST FOCUS
+Design, develop, document, train and execute complex software test cases used for functional and regression testing cycle
+Your skills and experience
+Have 3-5 years of related experience in QA
+Proficiency in English
+Attention to detail
+Strong desire to build a high-quality product.
+Good problem solving, collaboration, and communication skills.
+Ability to work in a team.
+Knowledge of testing processes and techniques
+Experience in testing window applications.
+Experience in test automation for window applications, and API with any framework and programming language is a plus.
+Knowledge of Home Building processes or related software is a plus
+Why you'll love working here
+Extremely competitive salary.
+13th month & productivity Bonus.
+Yearly salary review.
+Healthcare insurance package.
+24/24 Personal accident insurance.
+State-of-the-art office environment.
+Yearly outing.
+Detailed induction, training and on-going career development.
+Opportunity for overseas training and travel.
+English training programs.
+5-day week.
+Flexible start times.
+Free lunch.
+Free parking.
+Full Social Club includes gym, yoga, football, badminton, swimming.`
+
+**job 10:**
+link: https://itviec.com/it-jobs/senior-lead-qa-engineer-qe-qc-automation-pizza-hut-digital-technology-3057
+copied content: `Senior/Lead QA Engineer (QE, QC, Automation)
+Pizza Hut Digital & Technology
+You'll love it
+PHDV Gala Dinner_Company Trip 2022
+PHDV Team Building_Company Trip 2022
+PHDV_WEB Team_Company Trip 2022+2
+ Waseco Building - 10 Pho Quang Street, Ward 02, Tan Son Hoa, Ho Chi Minh 
+At office
+ Posted 15 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Flexible Friday afternoon
+18 Annual Leave + 5 Recharge Days/ Year
+Hybrid working model
+Job description
+We are seeking an experienced Test Lead to own and drive the testing strategy and quality practices for the Byte by Yum! Commerce Platform. In this role, you will lead the testing discipline across globally distributed engineering teams and ensure our e-commerce platform consistently delivers reliable, scalable, and high-quality digital experiences to millions of customers worldwide.
+
+ 
+
+As the Test Lead, you will define and implement the overall quality and testing strategy, guide the automation approach, and establish engineering best practices across web and mobile platforms. You will partner closely with engineering, product, and DevOps teams to embed quality throughout the software development lifecycle and enable fast, confident releases in a high-transaction environment.
+
+This role requires deep technical expertise in modern testing frameworks, strong leadership in automation strategy, and experience operating within complex, large-scale e-commerce platforms.
+
+ 
+
+RESPONSIBILITIES:
+
+ 
+
+Define and drive the overall testing strategy and quality standards for the platform.
+Lead the automation strategy, ensuring scalable and maintainable test frameworks across web and mobile applications.
+Establish best practices for functional, integration, end-to-end, and performance testing.
+Establish quality standards, testing guidelines, and best practices across engineering teams.
+Collaborate with engineering, product, and DevOps teams to embed quality into the CI/CD pipeline and development lifecycle.
+Provide technical leadership and mentorship to QA and engineering teams across globally distributed environments.
+Oversee test planning, execution, and reporting to ensure high levels of release confidence and platform reliability.
+Continuously evaluate and improve testing tools, frameworks, and processes to support platform growth and scalability.
+Lead defect management processes, ensuring issues are properly prioritized, tracked, and resolved.
+Your skills and experience
+Bachelor's degree in computer science, or related technical field.
+8+ years of experience in software quality assurance, with at least 3 years in a senior test role supporting large-scale e-commerce or high-volume consumer platforms.
+Proven experience leading testing strategies and quality initiatives in complex software platforms.
+Strong background in test automation frameworks and modern testing methodologies.
+Experience working with large-scale, high-transaction e-commerce systems.
+Ability to collaborate effectively across engineering, product, and DevOps teams.
+Strong leadership, communication, and problem-solving skills in fast-paced, agile environments.
+Strong problem-solving skills and a passion for delivering high-quality software.
+Ability to collaborate effectively across distributed global teams.
+Strong spoken and written English for international collaboration.
+Nice to Have:
+
+Familiarity with Lambda Test for cross-browser and cross-device testing at scale.
+ISTQB or other relevant QA certification.
+Knowledge of performance or load testing tools.
+Why you'll love working here
+Attractive Benefits:
+
+100% salary during probation period
+Annual Leave: 18 days/ year
+Five “Recharge Days” – Extra days, in addition to company holidays.
+Flexible Friday afternoon
+Full salary insurance
+13th-month bonus
+Gift + 1 day off for birthday
+Advanced health insurance (Generali)
+Regular engagement activities: sport clubs, internal event…
+Support Macbook and Monitor`
