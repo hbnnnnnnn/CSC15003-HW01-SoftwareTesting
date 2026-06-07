@@ -11,7 +11,7 @@
 ### Job 1: QA Engineer (Automation/Manual Test)
 - **Link:** [itviec.com - QA Engineer (Automation/Manual Test)](https://itviec.com/it-jobs/qa-engineer-automation-manual-test-1500-ewoosoft-vietnam-5021)
 - **Screenshot:**
-  ![Job 1 Screenshot](./screenshots/requirement_1/job_1.png)
+  ![Job 1 Screenshot](./screenshots/requirement_1/job_1.jpg)
 - **Job Description:** Perform manual testing for Web and PC applications. Design and execute test cases based on requirements. Develop and maintain automation tests. Apply AI-assisted testing tools/techniques to improve test efficiency and coverage.
 - **Required Skills:** 3+ years of experience as a QA/Tester. Practical knowledge of automation testing (Selenium, Playwright, Cypress, Appium). Experience or strong understanding of AI applications in software testing.
 - **Salary:** ~$1500
@@ -20,7 +20,7 @@
 ### Job 2: QA Engineer (Automation)
 - **Link:** [itviec.com - QA Engineer (Automation)](https://itviec.com/it-jobs/qa-engineer-automation-upto-3000-ingenico-vietnam-5823)
 - **Screenshot:**
-  ![Job 2 Screenshot](./screenshots/requirement_1/job_2.png)
+  ![Job 2 Screenshot](./screenshots/requirement_1/job_2.jpg)
 - **Job Description:** Automating all features for Android mobile and Web applications. Developing test cases, test plans, and test scripts based on business requirements. Developing automation frameworks using Python with OOP.
 - **Required Skills:** 5+ years of experience as a Test Manual/Automation Engineer. Experience in built-in frameworks (Robot framework, Cypress, Selenium). Ability to automate manual test cases using Python.
 - **Salary:** Up to $3000 (1,000 - 3,000 USD)
@@ -29,7 +29,7 @@
 ### Job 3: Senior Automation QA/Tester
 - **Link:** [itviec.com - Senior Automation QA/Tester](https://itviec.com/it-jobs/senior-automation-qa-tester-cong-ty-tnhh-ai-med-engine-0340)
 - **Screenshot:**
-  ![Job 3 Screenshot](./screenshots/requirement_1/job_3.png)
+  ![Job 3 Screenshot](./screenshots/requirement_1/job_3.jpg)
 - **Job Description:** Review and analyze system specifications. Collaborate with the team to develop effective strategies and test plans. Design, execute, and manage automation tests.
 - **Required Skills:** 3+ years of experience in Automation Testing and Manual Testing. Proficiency in at least one framework (Selenium, Appium, Cucumber). API and Performance testing.
 - **Salary:** $500 - $2,500
@@ -38,7 +38,7 @@
 ### Job 4: Senior QA/QC Automation Tester (Playwright/Python)
 - **Link:** [itviec.com - Senior QA/QC Automation Tester](https://itviec.com/it-jobs/senior-qa-qc-automation-tester-playwright-python-bosch-global-software-technologies-company-limited-3146)
 - **Screenshot:**
-  ![Job 4 Screenshot](./screenshots/requirement_1/job_4.png)
+  ![Job 4 Screenshot](./screenshots/requirement_1/job_4.jpg)
 - **Job Description:** Design, develop, and maintain automation test frameworks using Playwright with Python. Integrate automated testing into CI/CD pipelines. Explore AI-driven approaches to improve testing efficiency and quality.
 - **Required Skills:** 5+ years of experience in software testing. Hands-on experience with Playwright and Python. Good understanding of CI/CD. Nice to have: Experience with AI-supported testing solutions.
 - **Salary:** Competitive (13th-month + yearly bonus)
@@ -47,7 +47,7 @@
 ### Job 5: Senior Automation Test Engineer (Playwright, Java, AI)
 - **Link:** [itviec.com - Senior Automation Test Engineer](https://itviec.com/it-jobs/senior-automation-test-engineer-playwright-java-ai-hansen-technologies-2646)
 - **Screenshot:**
-  ![Job 5 Screenshot](./screenshots/requirement_1/job_5.png)
+  ![Job 5 Screenshot](./screenshots/requirement_1/job_5.jpg)
 - **Job Description:** Own and evolve automation frameworks across UI, API, and integration layers. Embed automation into CI/CD pipelines and drive shift‑left testing. Drive continuous improvement, including AI‑assisted testing approaches.
 - **Required Skills:** Strong experience in test automation using Java (Selenium, Playwright). Solid understanding of API and DB testing. Nice to have: Exposure to AI‑assisted testing.
 - **Salary:** $2,000 - $2,300
@@ -56,7 +56,7 @@
 ### Job 6: Software QA Engineer (AI First mindset)
 - **Link:** [itviec.com - Software QA Engineer](https://itviec.com/it-jobs/software-qa-engineer-ai-first-mindset-zen8labs-5907)
 - **Screenshot:**
-  ![Job 6 Screenshot](./screenshots/requirement_1/job_6.png)
+  ![Job 6 Screenshot](./screenshots/requirement_1/job_6.jpg)
 - **Job Description:** Apply AI/Agentic AI tools to assist in generating, validating, maintaining, and optimizing test plans. Review and validate AI-generated test scenarios. Evaluate and experiment with emerging AI testing tools, AI agents.
 - **Required Skills:** 4+ years of experience. Hands-on experience with automation. Strong interest in applying AI/LLM/Agentic AI tools. Experience using Cursor, Claude, GitHub Copilot, ChatGPT, or similar platforms.
 - **Salary:** Up to $2000
@@ -65,7 +65,7 @@
 ### Job 7: Automation QA Engineer (QA QC/Tester/Automation Test)
 - **Link:** [itviec.com - Automation QA Engineer](https://itviec.com/it-jobs/automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115)
 - **Screenshot:**
-  ![Job 7 Screenshot](./screenshots/requirement_1/job_7.png)
+  ![Job 7 Screenshot](./screenshots/requirement_1/job_7.jpg)
 - **Job Description:** Design, develop, and execute automated test scripts. Identify and report software defects. Design, create, and manage automation test cases using AI technologies.
 - **Required Skills:** 3+ years of experience. Proficient in at least one programming language. Experience with AI-automation testing (e.g., Copilot, Cursor, Perplexity).
 - **Salary:** $1,100 - $1,500
@@ -74,7 +74,7 @@
 ### Job 8: QA Automation Tester (Java, Javascript)
 - **Link:** [itviec.com - QA Automation Tester](https://itviec.com/it-jobs/qa-automation-tester-java-javascript-mitek-vietnam-4855)
 - **Screenshot:**
-  ![Job 8 Screenshot](./screenshots/requirement_1/job_8.png)
+  ![Job 8 Screenshot](./screenshots/requirement_1/job_8.jpg)
 - **Job Description:** Design, develop, and execute automated test scripts using industry-standard automation tools. Identify and report software defects in a clear and concise manner.
 - **Required Skills:** 3+ years of hands-on experience in automation testing. Solid programming skills in JavaScript, Python, or Java. Frameworks like Selenium, Robot Framework, Appium.
 - **Salary:** Competitive
@@ -83,7 +83,7 @@
 ### Job 9: Manual & Automation Tester / Quality Analyst (QA/ QC)
 - **Link:** [itviec.com - Manual & Automation Tester](https://itviec.com/it-jobs/manual-automation-tester-quality-analyst-qa-qc-mitek-vietnam-0005)
 - **Screenshot:**
-  ![Job 9 Screenshot](./screenshots/requirement_1/job_9.png)
+  ![Job 9 Screenshot](./screenshots/requirement_1/job_9.jpg)
 - **Job Description:** Design, develop, document, train and execute complex software test cases used for regression testing cycle. Testing on Windows Applications.
 - **Required Skills:** 3-5 years of related experience in QA. Experience in testing Windows applications. Experience in test automation for Windows applications and API.
 - **Salary:** Competitive
@@ -92,7 +92,7 @@
 ### Job 10: Senior/Lead QA Engineer (QE, QC, Automation)
 - **Link:** [itviec.com - Senior/Lead QA Engineer](https://itviec.com/it-jobs/senior-lead-qa-engineer-qe-qc-automation-pizza-hut-digital-technology-3057)
 - **Screenshot:**
-  ![Job 10 Screenshot](./screenshots/requirement_1/job_10.png)
+  ![Job 10 Screenshot](./screenshots/requirement_1/job_10.jpg)
 - **Job Description:** Define and drive the overall testing strategy and quality standards for the platform. Lead the automation strategy, ensuring scalable and maintainable test frameworks across web and mobile applications.
 - **Required Skills:** 8+ years of experience in software quality assurance. Strong background in test automation frameworks. Experience working with large-scale, high-transaction e-commerce systems.
 - **Salary:** Competitive
@@ -104,7 +104,7 @@
 
 **1. Air Canada Chatbot Hallucination**
 - **Screenshot:**
-  ![Defect 1 Screenshot](./screenshots/requirement_2/def_1.png)
+  ![Defect 1 Screenshot](./screenshots/requirement_2/def_1.jpg)
 - **Source Link:** https://www.aibusiness.com/nlp/air-canada-held-responsible-for-chatbot-s-hallucinations
 - **Description:** A customer asked the Air Canada chatbot about bereavement fares and was incorrectly told they could buy a ticket first and apply for a refund later.
 - **Severity:** High
@@ -114,7 +114,7 @@
 
 **2. Mata v. Avianca — ChatGPT Fake Legal Citations**
 - **Screenshot:**
-  ![Defect 2 Screenshot](./screenshots/requirement_2/def_2.png)
+  ![Defect 2 Screenshot](./screenshots/requirement_2/def_2.jpg)
 - **Source Link:** https://www.cnn.com/2023/05/27/business/chat-gpt-avianca-mata-lawyers
 - **Description:** Lawyers used ChatGPT to help prepare legal filings, and the AI hallucinated non-existent court cases and citations.
 - **Severity:** High
@@ -124,7 +124,7 @@
 
 **3. Indirect Prompt Injection in Bing Chat**
 - **Screenshot:**
-  ![Defect 3 Screenshot](./screenshots/requirement_2/def_3.png)
+  ![Defect 3 Screenshot](./screenshots/requirement_2/def_3.jpg)
 - **Source Link:** https://embracethered.com/blog/index.php/2023/04/06/data-exfiltration-via-markdown-image-tag-in-bing-chat/
 - **Description:** Security researcher Johann Rehberger showed that hidden instructions in webpages could influence Bing Chat.
 - **Severity:** High
@@ -134,7 +134,7 @@
 
 **4. Data/Model Poisoning in LLMs (OWASP LLM04)**
 - **Screenshot:**
-  ![Defect 4 Screenshot](./screenshots/requirement_2/def_4.png)
+  ![Defect 4 Screenshot](./screenshots/requirement_2/def_4.jpg)
 - **Source Link:** https://owasp.org/www-project-top-10-for-large-language-model-applications/
 - **Description:** Attackers intentionally contaminate training data, fine-tuning datasets, or retrieval sources.
 - **Severity:** High
@@ -144,7 +144,7 @@
 
 **5. AI-Generated Insecure Code (GitHub Copilot Studies)**
 - **Screenshot:**
-  ![Defect 5 Screenshot](./screenshots/requirement_2/def_5.png)
+  ![Defect 5 Screenshot](./screenshots/requirement_2/def_5.jpg)
 - **Source Link:** https://arxiv.org/abs/2108.09293
 - **Description:** Academic studies found that code generated by AI assistants frequently contained security flaws like SQL injection and hardcoded credentials.
 - **Severity:** High
@@ -154,7 +154,7 @@
 
 **6. Model Denial of Service (Unbounded Consumption)**
 - **Screenshot:**
-  ![Defect 6 Screenshot](./screenshots/requirement_2/def_6.png)
+  ![Defect 6 Screenshot](./screenshots/requirement_2/def_6.jpg)
 - **Source Link:** https://owasp.org/www-project-top-10-for-large-language-model-applications/
 - **Description:** Attackers overwhelm an AI model using crafted inputs like recursive reasoning chains or token flooding.
 - **Severity:** Medium
@@ -164,7 +164,7 @@
 
 **7. Bias in AI Hiring Tools**
 - **Screenshot:**
-  ![Defect 7 Screenshot](./screenshots/requirement_2/def_7.png)
+  ![Defect 7 Screenshot](./screenshots/requirement_2/def_7.jpg)
 - **Source Link:** https://www.eeoc.gov/laws/guidance/select-issues-assessing-adverse-impact-software-algorithms-and-artificial
 - **Description:** AI hiring systems were found to disadvantage demographic groups, including disability discrimination in video interviews.
 - **Severity:** High
@@ -174,7 +174,7 @@
 
 **8. MOVEit Transfer SQL Injection**
 - **Screenshot:**
-  ![Defect 8 Screenshot](./screenshots/requirement_2/def_8.png)
+  ![Defect 8 Screenshot](./screenshots/requirement_2/def_8.jpg)
 - **Source Link:** https://www.fortinet.com/blog/threat-research/moveit-transfer-critical-vulnerability-cve-2023-34362-exploited-as-a-0-day
 - **Description:** Attackers exploited a SQL injection vulnerability in MOVEit Transfer in 2023.
 - **Severity:** Critical
@@ -184,7 +184,7 @@
 
 **9. CrowdStrike Falcon Content Update Bug**
 - **Screenshot:**
-  ![Defect 9 Screenshot](./screenshots/requirement_2/def_9.png)
+  ![Defect 9 Screenshot](./screenshots/requirement_2/def_9.jpg)
 - **Source Link:** https://www.crowdstrike.com/en-us/blog/falcon-content-update-preliminary-post-incident-report/
 - **Description:** A defective content update for CrowdStrike Falcon caused millions of Windows systems to crash (BSOD).
 - **Severity:** Critical
@@ -194,7 +194,7 @@
 
 **10. XZ Utils Backdoor**
 - **Screenshot:**
-  ![Defect 10 Screenshot](./screenshots/requirement_2/def_10.png)
+  ![Defect 10 Screenshot](./screenshots/requirement_2/def_10.jpg)
 - **Source Link:** https://openssf.org/blog/2024/03/30/xz-backdoor-cve-2024-3094/
 - **Description:** A malicious contributor ("Jia Tan") inserted a sophisticated backdoor into XZ Utils to compromise SSH authentication.
 - **Severity:** Critical
@@ -204,7 +204,7 @@
 
 **11. ProxyNotShell**
 - **Screenshot:**
-  ![Defect 11 Screenshot](./screenshots/requirement_2/def_11.png)
+  ![Defect 11 Screenshot](./screenshots/requirement_2/def_11.jpg)
 - **Source Link:** https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41082
 - **Description:** A chain of vulnerabilities in Microsoft Exchange Server utilizing SSRF.
 - **Severity:** Critical
@@ -214,7 +214,7 @@
 
 **12. OpenSSL Buffer Overflows (Punycode)**
 - **Screenshot:**
-  ![Defect 12 Screenshot](./screenshots/requirement_2/def_12.png)
+  ![Defect 12 Screenshot](./screenshots/requirement_2/def_12.jpg)
 - **Source Link:** https://www.openssl.org/news/secadv/20221101.txt
 - **Description:** Memory handling flaws in OpenSSL caused buffer overflows.
 - **Severity:** High
@@ -224,7 +224,7 @@
 
 **13. Cisco IOS XE Web UI RCE**
 - **Screenshot:**
-  ![Defect 13 Screenshot](./screenshots/requirement_2/def_13.png)
+  ![Defect 13 Screenshot](./screenshots/requirement_2/def_13.jpg)
 - **Source Link:** https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z
 - **Description:** Attackers exploited a zero-day in the web interface of Cisco IOS XE routers.
 - **Severity:** Critical
@@ -234,7 +234,7 @@
 
 **14. SharePoint RCE**
 - **Screenshot:**
-  ![Defect 14 Screenshot](./screenshots/requirement_2/def_14.png)
+  ![Defect 14 Screenshot](./screenshots/requirement_2/def_14.jpg)
 - **Source Link:** https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357
 - **Description:** Remote Code Execution vulnerabilities in Microsoft SharePoint.
 - **Severity:** Critical
@@ -244,7 +244,7 @@
 
 **15. Apple WebKit Zero-Day**
 - **Screenshot:**
-  ![Defect 15 Screenshot](./screenshots/requirement_2/def_15.png)
+  ![Defect 15 Screenshot](./screenshots/requirement_2/def_15.jpg)
 - **Source Link:** https://support.apple.com/en-us/103832
 - **Description:** Attackers exploited previously unknown zero-click/one-click vulnerabilities in WebKit.
 - **Severity:** Critical
@@ -254,7 +254,7 @@
 
 **16. Android Framework Integer Overflow**
 - **Screenshot:**
-  ![Defect 16 Screenshot](./screenshots/requirement_2/def_16.png)
+  ![Defect 16 Screenshot](./screenshots/requirement_2/def_16.jpg)
 - **Source Link:** https://source.android.com/docs/security/bulletin/2023-09-01
 - **Description:** Improper arithmetic handling in native Android framework components.
 - **Severity:** High
@@ -264,7 +264,7 @@
 
 **17. Linux Kernel cgroups Improper Authorization**
 - **Screenshot:**
-  ![Defect 17 Screenshot](./screenshots/requirement_2/def_17.png)
+  ![Defect 17 Screenshot](./screenshots/requirement_2/def_17.jpg)
 - **Source Link:** https://nvd.nist.gov/vuln/detail/CVE-2023-0386
 - **Description:** Authorization flaws within Linux control groups (cgroups v1).
 - **Severity:** High
@@ -274,7 +274,7 @@
 
 **18. SolarWinds Web Help Desk Hardcoded Credentials**
 - **Screenshot:**
-  ![Defect 18 Screenshot](./screenshots/requirement_2/def_18.png)
+  ![Defect 18 Screenshot](./screenshots/requirement_2/def_18.jpg)
 - **Source Link:** https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-three-known-exploited-vulnerabilities-catalog
 - **Description:** Hardcoded credentials existed directly within the SolarWinds application code.
 - **Severity:** Critical
@@ -284,7 +284,7 @@
 
 **19. HTTP/2 Rapid Reset Attack**
 - **Screenshot:**
-  ![Defect 19 Screenshot](./screenshots/requirement_2/def_19.png)
+  ![Defect 19 Screenshot](./screenshots/requirement_2/def_19.jpg)
 - **Source Link:** https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487
 - **Description:** A DDoS technique abusing HTTP/2 stream multiplexing (RST_STREAM).
 - **Severity:** High
@@ -294,7 +294,7 @@
 
 **20. Fortinet SSL-VPN RCE**
 - **Screenshot:**
-  ![Defect 20 Screenshot](./screenshots/requirement_2/def_20.png)
+  ![Defect 20 Screenshot](./screenshots/requirement_2/def_20.jpg)
 - **Source Link:** https://www.fortinet.com/blog/threat-research/fortios-ssl-vpn-buffer-underflow-vulnerability-cve-2022-42475
 - **Description:** Critical pre-auth RCE vulnerabilities in FortiOS SSL-VPN gateways.
 - **Severity:** Critical
@@ -344,15 +344,15 @@
 - **Why AI missed it:** The AI treated functions like "Speed Change" and "Oscillation" as mutually exclusive standalone tests. It failed to consider concurrent state changes, which is a common real-world edge case for physical appliances.
 
 **Screenshots of AI conversation missing these edge cases:**
-![AI Output 1](./screenshots/prompt_log/chatgpt/9.png)
-![AI Output 2](./screenshots/prompt_log/chatgpt/10.png)
+![AI Output 1](./screenshots/prompt_log/chatgpt/9.jpg)
+![AI Output 2](./screenshots/prompt_log/chatgpt/10.jpg)
 
 ### Bug Report Evidence
 
 | TC ID | Defect Description | Screenshot |
 |---|---|---|
-| FAN-TC007 | Oscillation interruption recovery — fan continues to max angle before reversing | ![FAN-TC007](./screenshots/bug_reports/FAN-TC007-defect-oscillation-interruption.png) |
-| FAN-TC013 | Front grill safety — finger can reach rotating blades through grill opening | ![FAN-TC013](./screenshots/bug_reports/FAN-TC013-defect-front-grill-safety.png) |
+| FAN-TC007 | Oscillation interruption recovery — fan continues to max angle before reversing | ![FAN-TC007](./screenshots/bug_reports/FAN-TC007-defect-oscillation-interruption.jpg) |
+| FAN-TC013 | Front grill safety — finger can reach rotating blades through grill opening | ![FAN-TC013](./screenshots/bug_reports/FAN-TC013-defect-front-grill-safety.jpg) |
 
 GitHub Issues: [#1 FAN-TC007](https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting/issues/1) · [#2 FAN-TC013](https://github.com/hbnnnnnnn/CSC15003-HW01-SoftwareTesting/issues/2)
 

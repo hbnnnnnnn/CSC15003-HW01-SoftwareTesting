@@ -5,21 +5,56 @@ git log --graph --all --stat
 ```
 
 ```
-* commit 15a2a6eb318c115c16ce947dd4cd95287880a3a2 (HEAD -> main, origin/main, origin/HEAD)
+* commit 0d62bdbafb3218d29dc3b63f148ab6540fc9f8bc (HEAD -> main, origin/main, origin/HEAD)
+| Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
+| Date:   Sun Jun 7 23:56:20 2026 +0700
+| 
+|     docs: export qa qc mindmap to png
+| 
+|  QA_QC_Mindmap.png                                | Bin 0 -> 337457 bytes
+|  pdf_exports/AI-02_AI_Audit_Report.pdf            | Bin 491665 -> 491840 bytes
+|  pdf_exports/AI-03_AI_Disclosure_Form.pdf         | Bin 259292 -> 259993 bytes
+|  pdf_exports/AI-05_AI_Privacy_Checklist.pdf       | Bin 220895 -> 220849 bytes
+|  pdf_exports/AI-06_AI_Student_Acknowledgement.pdf | Bin 263223 -> 263571 bytes
+|  pdf_exports/HW01_Report.pdf                      | Bin 41377838 -> 41377688 bytes
+|  pdf_exports/QA_QC_Mindmap.pdf                    | Bin 65536 -> 66009 bytes
+|  pdf_exports/git_log.pdf                          | Bin 93345 -> 94049 bytes
+|  pdf_exports/prompt_log.pdf                       | Bin 13941408 -> 13941576 bytes
+|  9 files changed, 0 insertions(+), 0 deletions(-)
+| 
+* commit bf6908d25571f7c17b7bf7263376b0f7621315e2
+| Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
+| Date:   Sun Jun 7 23:47:01 2026 +0700
+| 
+|     docs: add git log md and re-export all pdfs
+| 
+|  export_pdf.py                                    |   1 +
+|  git_log.md                                       | 327 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+|  pdf_exports/AI-02_AI_Audit_Report.pdf            | Bin 492031 -> 491665 bytes
+|  pdf_exports/AI-03_AI_Disclosure_Form.pdf         | Bin 259475 -> 259292 bytes
+|  pdf_exports/AI-05_AI_Privacy_Checklist.pdf       | Bin 221051 -> 220895 bytes
+|  pdf_exports/AI-06_AI_Student_Acknowledgement.pdf | Bin 264238 -> 263223 bytes
+|  pdf_exports/HW01_Report.pdf                      | Bin 41377139 -> 41377838 bytes
+|  pdf_exports/QA_QC_Mindmap.pdf                    | Bin 66009 -> 65536 bytes
+|  pdf_exports/git_log.pdf                          | Bin 0 -> 93345 bytes
+|  pdf_exports/prompt_log.pdf                       | Bin 13941302 -> 13941408 bytes
+|  10 files changed, 328 insertions(+)
+| 
+* commit 15a2a6eb318c115c16ce947dd4cd95287880a3a2
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 23:36:47 2026 +0700
-|
+| 
 |     docs: update the prompt output to have red borders
-|
+| 
 |  prompt_log.md | 110 ++++++++++++++++++++++++++++++++++++++++++++++++++++----------------------------------------------------
 |  1 file changed, 55 insertions(+), 55 deletions(-)
-
+| 
 * commit 51c73bb8c4718defef218b05410d283af968d726
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 23:36:23 2026 +0700
-|
+| 
 |     docs: add pdf version of the markdowns
-|
+| 
 |  export_pdf.py                                    | 170 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  pdf_exports/AI-02_AI_Audit_Report.pdf            | Bin 0 -> 492031 bytes
 |  pdf_exports/AI-03_AI_Disclosure_Form.pdf         | Bin 0 -> 259475 bytes
@@ -29,13 +64,13 @@ git log --graph --all --stat
 |  pdf_exports/QA_QC_Mindmap.pdf                    | Bin 0 -> 66009 bytes
 |  pdf_exports/prompt_log.pdf                       | Bin 0 -> 13941302 bytes
 |  8 files changed, 170 insertions(+)
-
+| 
 * commit 5cd7f2b5f2b7ff82fd43d350436c6394d8aa7434
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 23:19:02 2026 +0700
-|
+| 
 |     chore: remove irrelevant files
-|
+| 
 |  prompt.txt              |  350 -------------------------
 |  req3_video_script_vi.md |  134 ----------
 |  req_1_materials.txt     |  659 -----------------------------------------------
@@ -43,88 +78,88 @@ git log --graph --all --stat
 |  req_2_materials.txt     | 1296 ---------------------------------------------------------------------------------------------
 |  test_case_output.txt    |   35 ---
 |  6 files changed, 2514 deletions(-)
-
+| 
 * commit a7c8a3ce050f73539039439e4458366530324c4f
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 23:17:15 2026 +0700
-|
+| 
 |     docs: refine req 2 #1 and #10
-|
+| 
 |  HW01_Report.md | 4 ++--
 |  1 file changed, 2 insertions(+), 2 deletions(-)
-
+| 
 * commit 00d64e24cb453e78acd2e1a619ebe5733a3888af
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:59:31 2026 +0700
-|
+| 
 |     docs: update top-3 impactful prompt as verbatim
-|
+| 
 |  AI-03_AI_Disclosure_Form.md | 7 +++----
 |  1 file changed, 3 insertions(+), 4 deletions(-)
-
+| 
 * commit defd1a7c5f91f0f405514dd3a3c15331d3b6df5e
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:50:54 2026 +0700
-|
+| 
 |     fix: image links and signature
-|
+| 
 |  AI-02_AI_Audit_Report.md | 5 ++---
 |  HW01_Report.md           | 4 ++--
 |  2 files changed, 4 insertions(+), 5 deletions(-)
-
+| 
 * commit fbc89e3eb79092c0a5502fa5bfe3fa3c41360d0f
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:33:59 2026 +0700
-|
+| 
 |     docs: add bug issue screenshots
-|
+| 
 |  screenshots/bug_reports/FAN-TC007-defect-oscillation-interruption.png | Bin 0 -> 615495 bytes
 |  screenshots/bug_reports/FAN-TC013-defect-front-grill-safety.png       | Bin 0 -> 628460 bytes
 |  2 files changed, 0 insertions(+), 0 deletions(-)
-
+| 
 * commit e138b0d7f841b06e603f78f3deb3f1e05665457d
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:33:40 2026 +0700
-|
+| 
 |     docs: added readme
-|
+| 
 |  README.md | 63 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  1 file changed, 63 insertions(+)
-
+| 
 * commit 95f4eb284c227d189c1a0b9b26dea274cbea7b57
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:33:30 2026 +0700
-|
+| 
 |     docs: create AI-06 md
-|
-|  AI-06_AI_Student_Acknowledgement.md | 71 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+| 
+|  AI-06_AI_Student_Acknowledgement.md | 71 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  1 file changed, 71 insertions(+)
-
+| 
 * commit 910edd06e98e46a88fbad0556f45be93759f6324
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:33:14 2026 +0700
-|
+| 
 |     docs: enhance AI forms visual
-|
+| 
 |  AI-03_AI_Disclosure_Form.md   | 45 +++++++++++++++++++++------------------------
 |  AI-05_AI_Privacy_Checklist.md | 51 +++++++++++++++++++++++++--------------------------
 |  2 files changed, 46 insertions(+), 50 deletions(-)
-
+| 
 * commit 4a30b7b0c109fd0664683c63dc16642367a17881
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:32:06 2026 +0700
-|
+| 
 |     docs: update HW01 report (bug report, AI Critique, add links to docs)
-|
+| 
 |  HW01_Report.md | 37 +++++++++++++++++++++++++++++++------
 |  1 file changed, 31 insertions(+), 6 deletions(-)
-
+| 
 * commit 840088b7d9885392d318ea8896a5c719f79dc91c
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:31:15 2026 +0700
-|
+| 
 |     docs: update prompt log with complete conversation and notes
-|
+| 
 |  prompt_log.md                        |  37 ++++++++++++++++---------------------
 |  screenshots/prompt_log/chatgpt/1.png | Bin 318546 -> 351389 bytes
 |  screenshots/prompt_log/chatgpt/2.png | Bin 318920 -> 360360 bytes
@@ -133,72 +168,72 @@ git log --graph --all --stat
 |  screenshots/prompt_log/gemini/8.png  | Bin 0 -> 317174 bytes
 |  screenshots/prompt_log/gemini/9.png  | Bin 0 -> 299564 bytes
 |  7 files changed, 16 insertions(+), 21 deletions(-)
-
+| 
 * commit e9691211d39622937ab36811dc0e6ef145c8084b
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:30:45 2026 +0700
-|
+| 
 |     docs: fix 5 AI-generated mistakes in ISTQB QA/QC mindmap
-|
+|     
 |     - Move Performance Testing from Functional to Non-Functional Testing
 |     - Re-label Static Testing as cross-functional technique (not QA-only)
 |     - Consolidate duplicate Reporting nodes
 |     - Remove duplicate Risk Management entry from QA branch
-|     - Fix Test Types hierarchy: flat list → Functional vs Non-Functional
+|     - Fix Test Types hierarchy: flat list â<U+0086><U+0092> Functional vs Non-Functional
 |     - Expand sparse tool branches for visual balance
 |     - Remove AI mistakes section (all mistakes now corrected)
-|
+| 
 |  QA_QC_Mindmap.md | 235 +++++++++++++++++++++++++++++++++++++++++++++++------------------------------------------------------
 |  1 file changed, 109 insertions(+), 126 deletions(-)
-
+| 
 * commit 2392a76d08243b15c3e0944e34e27ffcaf8e3b51
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 22:30:12 2026 +0700
-|
+| 
 |     docs: fix AI audit report accuracy against prompt.txt notes
-|
+| 
 |  AI-02_AI_Audit_Report.md | 94 +++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------------------------
 |  1 file changed, 51 insertions(+), 43 deletions(-)
-
+| 
 * commit b8b99000ef5e975355dea960b0cd16f74052da69
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 20:20:35 2026 +0700
-|
+| 
 |     docs: remove irrelavant sections and added requirement 3
-|
+| 
 |  HW01_Report.md            |  88 +++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------------------
 |  KCPM-HW01-Test Cases.xlsx | Bin 99195 -> 99219 bytes
 |  prompt_log.md             |  17 -----------------
 |  3 files changed, 51 insertions(+), 54 deletions(-)
-
+| 
 * commit a2eb0f9b0ff2e2856bf8d655a4ac1f175945dbba
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 20:00:45 2026 +0700
-|
+| 
 |     docs: add physical product test cases and evidence
-|
+| 
 |  KCPM-HW01-Test Cases.xlsx | Bin 0 -> 99195 bytes
 |  fan_and_studentID.jpg     | Bin 0 -> 3309490 bytes
 |  req3_video_script_vi.md   | 134 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  test_case_output.txt      |  35 ++++++++++++++++++++++++
 |  youtube_links.md          |   7 +++++
 |  5 files changed, 176 insertions(+)
-
+| 
 * commit ce6c1e28e39888bb5dc90c786ba39e4ee57a010d
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 19:15:07 2026 +0700
-|
+| 
 |     docs: update HW01 report with completed AI audit report reference
-|
+| 
 |  HW01_Report.md | 53 ++++++++++++++++++++++++++++++++++++++++++-----------
 |  1 file changed, 42 insertions(+), 11 deletions(-)
-
+| 
 * commit 8062e00bb0d67b2d4baaaf569c455df74582d235
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 19:13:59 2026 +0700
-|
+| 
 |     docs: add prompt log, screenshots, and QA/QC mindmap
-|
+| 
 |  QA_QC_Mindmap.md                      | 147 +++++++++++++++++++++++++++++
 |  prompt.txt                            | 350 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  prompt_log.md                         | 402 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -255,35 +290,35 @@ git log --graph --all --stat
 |  screenshots/requirement_1/.DS_Store   | Bin 0 -> 8196 bytes
 |  screenshots/requirement_2/.DS_Store   | Bin 0 -> 8196 bytes
 |  55 files changed, 899 insertions(+)
-
+| 
 * commit 77a00ca5f3d9e537b0887ac578377d1db374000b
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 19:12:42 2026 +0700
-|
+| 
 |     docs: add AI audit, disclosure, and privacy checklist documents
-|
+| 
 |  AI-02_AI_Audit_Report.md      | 88 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  AI-03_AI_Disclosure_Form.md   | 99 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  AI-05_AI_Privacy_Checklist.md | 61 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  3 files changed, 248 insertions(+)
-
+| 
 * commit ead0b85b7a3537dc591691a04bac25668ea6193e
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Sun Jun 7 19:08:56 2026 +0700
-|
+| 
 |     docs: add source materials for requirements 1 and 2
-|
+| 
 |  req_1_materials.txt |  659 +++++++++++++++++++++++++++++++++++++++++++++++++
 |  req_2_links.txt     |   40 +++
 |  req_2_materials.txt | 1296 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 |  3 files changed, 1995 insertions(+)
-
+| 
 * commit 52cda8d5b832b1849beccfcbe846be865d2d32de
 | Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
 | Date:   Fri Jun 5 23:52:25 2026 +0700
-|
+| 
 |     chore: add requirement 2
-|
+| 
 |  HW01_Report.md                       | 201 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
 |  screenshots/requirement_2/def_1.png  | Bin 0 -> 182685 bytes
 |  screenshots/requirement_2/def_10.png | Bin 0 -> 106904 bytes
@@ -297,6 +332,7 @@ git log --graph --all --stat
 |  screenshots/requirement_2/def_18.png | Bin 0 -> 100250 bytes
 |  screenshots/requirement_2/def_19.png | Bin 0 -> 128099 bytes
 |  screenshots/requirement_2/def_2.png  | Bin 0 -> 151244 bytes
+|  screenshots/requirement_2/def_20.png | Bin 0 -> 110282 bytes
 |  screenshots/requirement_2/def_3.png  | Bin 0 -> 191758 bytes
 |  screenshots/requirement_2/def_4.png  | Bin 0 -> 190322 bytes
 |  screenshots/requirement_2/def_5.png  | Bin 0 -> 171793 bytes
@@ -305,23 +341,24 @@ git log --graph --all --stat
 |  screenshots/requirement_2/def_8.png  | Bin 0 -> 115331 bytes
 |  screenshots/requirement_2/def_9.png  | Bin 0 -> 114540 bytes
 |  21 files changed, 200 insertions(+), 1 deletion(-)
-
+| 
 * commit 206ac15fc76b1d032126103ca785c8b8744d25d8
-| Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
-| Date:   Fri Jun 5 23:26:41 2026 +0700
-|
-|     chore: add report structure and fulfilled requirement 1
-|
-|  HW01_Report.md                       | 127 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-|  screenshots/requirement_1/job_1.png  | Bin 0 -> 1882232 bytes
-|  screenshots/requirement_1/job_10.png | Bin 0 -> 2183999 bytes
-|  screenshots/requirement_1/job_2.png  | Bin 0 -> 888017 bytes
-|  screenshots/requirement_1/job_3.png  | Bin 0 -> 920289 bytes
-|  screenshots/requirement_1/job_4.png  | Bin 0 -> 1832254 bytes
-|  screenshots/requirement_1/job_5.png  | Bin 0 -> 1947250 bytes
-|  screenshots/requirement_1/job_6.png  | Bin 0 -> 1657063 bytes
-|  screenshots/requirement_1/job_7.png  | Bin 0 -> 1938022 bytes
-|  screenshots/requirement_1/job_8.png  | Bin 0 -> 2020860 bytes
-|  screenshots/requirement_1/job_9.png  | Bin 0 -> 2025143 bytes
-|  11 files changed, 127 insertions(+)
+  Author: Bảo Ngọc Hà <hiembaonon@gmail.com>
+  Date:   Fri Jun 5 23:26:41 2026 +0700
+  
+      chore: add report structure and fulfilled requirement 1
+  
+   HW01_Report.md                       | 127 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   screenshots/requirement_1/job_1.png  | Bin 0 -> 1882232 bytes
+   screenshots/requirement_1/job_10.png | Bin 0 -> 2183999 bytes
+   screenshots/requirement_1/job_2.png  | Bin 0 -> 888017 bytes
+   screenshots/requirement_1/job_3.png  | Bin 0 -> 920289 bytes
+   screenshots/requirement_1/job_4.png  | Bin 0 -> 1832254 bytes
+   screenshots/requirement_1/job_5.png  | Bin 0 -> 1947250 bytes
+   screenshots/requirement_1/job_6.png  | Bin 0 -> 1657063 bytes
+   screenshots/requirement_1/job_7.png  | Bin 0 -> 1938022 bytes
+   screenshots/requirement_1/job_8.png  | Bin 0 -> 2020860 bytes
+   screenshots/requirement_1/job_9.png  | Bin 0 -> 2025143 bytes
+   11 files changed, 127 insertions(+)
+(END)
 ```
