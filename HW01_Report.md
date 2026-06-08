@@ -390,7 +390,7 @@ For this assignment, AI tools (Claude, ChatGPT, Gemini) were used across all thr
 | 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 40 |
 | 2 | Software Defects 2022–2026 (20 defects) | 20 | 20 |
 | 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 25 |
-| AI-1 | [AI-02](./AI-02_AI_Audit_Report.pdf) AI Audit Report (5-section) attached | 8 | 8 |
+| AI-1 | [AI-02](./AI-02_AI_Audit_Report.md) AI Audit Report (5-section) attached | 8 | 8 |
 | AI-2 | AI Critique 200–300 words + [AI-03](./AI-03_AI_Disclosure_Form.md) attached | 4 | 4 |
 | AI-3 | [AI-05](./AI-05_AI_Privacy_Checklist.md) Checklist signed + anti-cheat artifacts | 3 | 3 |
 | **Total** | | **100** | **100** |
